@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Roadmap.md"
+            "file": "II stuff/Perks.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "II stuff/Perks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
-    "Roadmap.md",
     "II stuff/Perks.md",
     "II stuff/Perk info.md",
+    "Iron fists.md",
+    "Roadmap.md",
     "README.md",
     "Untitled.md",
     "aaaaaa.md",
     "Untitled/Untitled Kanban.md",
     "Perks.md",
-    "Hi!!!.md",
-    "conflict-files-obsidian-git.md"
+    "Hi!!!.md"
   ]
 }
