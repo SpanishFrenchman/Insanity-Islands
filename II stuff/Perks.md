@@ -56,6 +56,26 @@ kanban-plugin: basic
 
 
 
+## Mentale gezondheid
+
+
+
+## Verzameling
+
+
+
+## Handelen
+
+
+
+## Vuurwapens
+
+
+
+## Soulperks
+
+
+
 
 
 %% kanban:settings
