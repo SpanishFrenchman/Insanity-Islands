@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] NPC Intelligentie
 - [ ] hervertaling
 - [ ] crafting lijst
+- [ ] ontwikkeling van Obsidian
 
 
 ## Bezig...
@@ -25,6 +26,7 @@ kanban-plugin: basic
 
 ## Bijna af; alleen nog balanceren
 
+- [ ] Noëlle weer terug in de server doen
 
 
 ## Afgemaakt voor release
