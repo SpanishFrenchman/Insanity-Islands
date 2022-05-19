@@ -7,8 +7,22 @@
         "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "II stuff/Untitled Kanban.md"
+          }
+        }
+      },
+      {
+        "id": "0843f63e79871d7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "aaaaaa.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aaaaaa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a21ce4b3f8e02e2b",
+  "active": "0843f63e79871d7f",
   "lastOpenFiles": [
+    "aaaaaa.md",
+    "II stuff/Untitled Kanban.md",
     "Untitled.md",
     "Untitled/Untitled Kanban.md",
     "README.md",
