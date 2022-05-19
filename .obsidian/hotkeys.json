@@ -16,5 +16,14 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-kanban:add-kanban-lane": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }

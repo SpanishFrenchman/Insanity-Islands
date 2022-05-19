@@ -1,15 +1,17 @@
 {
   "main": {
-    "id": "1c0bf87df9896a69",
+    "id": "73b31728e5dbed24",
     "type": "split",
     "children": [
       {
-        "id": "8231104cc051354e",
+        "id": "ee503e0d02a0d292",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Roadmap.md"
+            "file": "Roadmap.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -17,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f92dc2582399943f",
+    "id": "c5ac7bfc3d233f20",
     "type": "split",
     "children": [
       {
-        "id": "418cdfd4d35fe24c",
+        "id": "c87a1d9efa66a933",
         "type": "tabs",
         "children": [
           {
-            "id": "3d05d3256aa2d7f9",
+            "id": "eb9eeabe8fbcf633",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -33,7 +35,7 @@
             }
           },
           {
-            "id": "e8290f92be1f3d50",
+            "id": "2d4156f6cebf55a4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,15 +56,15 @@
     "width": 300
   },
   "right": {
-    "id": "092bb41d3a2ae6de",
+    "id": "6a2fb2ef247f493c",
     "type": "split",
     "children": [
       {
-        "id": "3b19eb71c1f4bb42",
+        "id": "7b2b0d2dbcbc6e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "a20806b5b3260a0e",
+            "id": "e8ec146221a74e55",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -85,13 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8231104cc051354e",
+  "active": "ee503e0d02a0d292",
   "lastOpenFiles": [
     "Roadmap.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
+    "Untitled.md",
     "Hi!!!.md",
-    "Insanity-Islands/README.md",
-    "Insanity-Islands/Roadmap.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
