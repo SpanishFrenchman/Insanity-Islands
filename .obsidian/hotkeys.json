@@ -1,22 +1,4 @@
 {
-  "obsidian-kanban:convert-to-kanban": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "K"
-    }
-  ],
-  "obsidian-kanban:add-kanban-lane": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "obsidian-git:push": [
     {
       "modifiers": [
@@ -24,6 +6,15 @@
         "Mod"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }
