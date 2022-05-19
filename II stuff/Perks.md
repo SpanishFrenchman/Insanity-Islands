@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 
 
-## Endurance
+## Overleving
 
 
 
@@ -21,6 +21,22 @@ kanban-plugin: basic
 
 
 ## Intelligentie
+
+
+
+## Behendigheid
+
+
+
+## Geluk
+
+
+
+## Magie
+
+
+
+## Offensief
 
 
 
