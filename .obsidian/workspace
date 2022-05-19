@@ -7,11 +7,9 @@
         "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "II stuff/Perk info.md",
-            "mode": "source",
-            "source": false
+            "file": "Roadmap.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II stuff/Perk info.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +87,13 @@
   },
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
-    "II stuff/Perk info.md",
-    "Untitled.md",
+    "Roadmap.md",
     "II stuff/Perks.md",
+    "II stuff/Perk info.md",
     "README.md",
+    "Untitled.md",
     "aaaaaa.md",
     "Untitled/Untitled Kanban.md",
-    "Roadmap.md",
     "Perks.md",
     "Hi!!!.md",
     "conflict-files-obsidian-git.md"
