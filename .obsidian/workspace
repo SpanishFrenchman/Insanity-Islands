@@ -7,8 +7,12 @@
         "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Perks.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,10 +69,11 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Perks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
