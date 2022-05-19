@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hi!!!.md",
+            "file": "Roadmap.md",
             "mode": "source",
             "source": false
           }
@@ -19,12 +19,8 @@
         "id": "69b706fbba6b51a1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hi!!!.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +97,9 @@
   },
   "active": "8231104cc051354e",
   "lastOpenFiles": [
+    "Roadmap.md",
     "Hi!!!.md",
     "conflict-files-obsidian-git.md",
-    "Roadmap.md",
     "README.md",
     "Insanity-Islands/README.md",
     "Insanity-Islands/Roadmap.md"
