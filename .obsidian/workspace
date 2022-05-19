@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ee503e0d02a0d292",
+        "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -73,7 +73,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -84,10 +84,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ee503e0d02a0d292",
+  "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
     "Perks.md",
     "Roadmap.md",
