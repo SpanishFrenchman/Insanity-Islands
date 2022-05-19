@@ -1,15 +1,17 @@
 {
   "main": {
-    "id": "73b31728e5dbed24",
+    "id": "1c0bf87df9896a69",
     "type": "split",
     "children": [
       {
-        "id": "d9357ab924ff7114",
+        "id": "8231104cc051354e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Roadmap.md"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -17,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5ac7bfc3d233f20",
+    "id": "f92dc2582399943f",
     "type": "split",
     "children": [
       {
-        "id": "c87a1d9efa66a933",
+        "id": "418cdfd4d35fe24c",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9eeabe8fbcf633",
+            "id": "3d05d3256aa2d7f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -33,7 +35,7 @@
             }
           },
           {
-            "id": "2d4156f6cebf55a4",
+            "id": "e8290f92be1f3d50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,28 +49,27 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "6a2fb2ef247f493c",
+    "id": "092bb41d3a2ae6de",
     "type": "split",
     "children": [
       {
-        "id": "7b2b0d2dbcbc6e8d",
+        "id": "3b19eb71c1f4bb42",
         "type": "tabs",
         "children": [
           {
-            "id": "e8ec146221a74e55",
+            "id": "a20806b5b3260a0e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9357ab924ff7114",
+  "active": "8231104cc051354e",
   "lastOpenFiles": [
-    "Roadmap.md"
+    "README.md",
+    "Roadmap.md",
+    "Insanity-Islands/README.md",
+    "Insanity-Islands/Roadmap.md"
   ]
 }
