@@ -19,8 +19,12 @@
         "id": "ee503e0d02a0d292",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Hi!!!.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hi!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +101,7 @@
   },
   "active": "ee503e0d02a0d292",
   "lastOpenFiles": [
+    "Hi!!!.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Roadmap.md"
