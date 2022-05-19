@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ee503e0d02a0d292",
+        "id": "fb1fe2a92bbec2a2",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Roadmap.md"
+            "file": "Perks.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Perks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,14 +84,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ee503e0d02a0d292",
+  "active": "fb1fe2a92bbec2a2",
   "lastOpenFiles": [
+    "Perks.md",
     "Roadmap.md",
     "README.md",
-    "Perks.md",
     "Hi!!!.md",
     "conflict-files-obsidian-git.md"
   ]
