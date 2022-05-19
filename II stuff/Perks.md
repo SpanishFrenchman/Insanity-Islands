@@ -76,6 +76,10 @@ kanban-plugin: basic
 
 
 
+## Geleerde perks
+
+
+
 
 
 %% kanban:settings
