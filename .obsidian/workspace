@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "73b31728e5dbed24",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9357ab924ff7114",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Roadmap.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5ac7bfc3d233f20",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87a1d9efa66a933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb9eeabe8fbcf633",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d4156f6cebf55a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a2fb2ef247f493c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b2b0d2dbcbc6e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8ec146221a74e55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9357ab924ff7114",
+  "lastOpenFiles": [
+    "Roadmap.md"
+  ]
+}
