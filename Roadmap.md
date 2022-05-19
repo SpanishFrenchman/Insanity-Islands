@@ -8,13 +8,19 @@ kanban-plugin: basic
 
 - [ ] NPC Intelligentie
 - [ ] hervertaling
+- [ ] crafting lijst
 
 
 ## Bezig...
 
-- [ ] II: Souls bound!
 - [ ] II: One island, two worlds
 - [ ] posten van perks
+- [ ] uitleg over stats deel 2
+
+
+## Idee klaar; alleen features nog
+
+- [ ] II: Souls bound!
 
 
 ## Bijna af; alleen nog balanceren
@@ -24,10 +30,6 @@ kanban-plugin: basic
 ## Afgemaakt voor release
 
 **Complete**
-
-
-## Idee klaar; alleen features nog
-
 
 
 
