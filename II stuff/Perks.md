@@ -4,12 +4,11 @@ kanban-plugin: basic
 
 ---
 
-## Strenght
-
-- [ ] [[aaaaaa]]
+## Kracht
 
 
-## Perception
+
+## Perceptie
 
 
 
