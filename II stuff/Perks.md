@@ -9,6 +9,22 @@ kanban-plugin: basic
 - [ ] [[aaaaaa]]
 
 
+## Perception
+
+
+
+## Endurance
+
+
+
+## Charisma
+
+
+
+## Intelligentie
+
+
+
 
 
 %% kanban:settings
