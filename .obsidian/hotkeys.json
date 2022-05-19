@@ -17,15 +17,6 @@
       "key": "P"
     }
   ],
-  "obsidian-kanban:add-kanban-lane": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "obsidian-kanban:toggle-kanban-view": [
     {
       "modifiers": [
@@ -33,6 +24,15 @@
         "Mod"
       ],
       "key": "X"
+    }
+  ],
+  "obsidian-kanban:add-kanban-lane": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
     }
   ]
 }
