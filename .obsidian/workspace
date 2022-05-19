@@ -7,7 +7,7 @@
         "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -84,6 +84,8 @@
   },
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled/Untitled Kanban.md",
     "README.md",
     "Roadmap.md",
     "Perks.md",
