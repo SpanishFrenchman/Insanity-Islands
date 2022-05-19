@@ -40,6 +40,22 @@ kanban-plugin: basic
 
 
 
+## Altruisme
+
+
+
+## Craften
+
+
+
+## Aquatisch
+
+
+
+## Verdediging
+
+
+
 
 
 %% kanban:settings
