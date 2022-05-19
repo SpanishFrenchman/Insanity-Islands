@@ -7,11 +7,9 @@
         "id": "d9357ab924ff7114",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source",
-            "source": false
+            "file": "Roadmap.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +87,7 @@
   },
   "active": "d9357ab924ff7114",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Roadmap.md"
+    "Roadmap.md",
+    "Untitled.md"
   ]
 }
