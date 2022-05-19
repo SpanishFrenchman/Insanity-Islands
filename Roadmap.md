@@ -26,6 +26,10 @@ kanban-plugin: basic
 **Complete**
 
 
+## Idee klaar; alleen features nog
+
+
+
 
 
 %% kanban:settings

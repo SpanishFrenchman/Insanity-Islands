@@ -1,4 +1,5 @@
 # Insanity-Islands
 Welcome to insanity islands, a cracked tabletop rpg.
 FF wat info over de roadmap:
-Er wordt aan de hoogste ge
+Er wordt aan de hoogste gewerkt. Soms word er aan 2 dingen tegelijkertijd gewerkt
+wat? verwacht je meer? cringe.

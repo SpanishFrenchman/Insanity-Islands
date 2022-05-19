@@ -7,11 +7,9 @@
         "id": "ee503e0d02a0d292",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "Roadmap.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +87,8 @@
   },
   "active": "ee503e0d02a0d292",
   "lastOpenFiles": [
-    "README.md",
     "Roadmap.md",
+    "README.md",
     "Untitled.md",
     "Hi!!!.md",
     "conflict-files-obsidian-git.md"
