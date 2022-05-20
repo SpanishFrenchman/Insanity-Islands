@@ -7,7 +7,7 @@
         "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       },
@@ -73,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II stuff/Perks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,12 +92,12 @@
   },
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
+    "II stuff/Perk info.md",
+    "README.md",
     "II stuff/Perks.md",
+    "Roadmap.md",
     "dsdsd.md",
     "Iron fists.md",
-    "II stuff/Perk info.md",
-    "Roadmap.md",
-    "README.md",
     "Untitled.md",
     "aaaaaa.md",
     "Untitled/Untitled Kanban.md",
