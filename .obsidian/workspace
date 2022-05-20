@@ -8,11 +8,9 @@
         "type": "leaf",
         "dimension": 87.19590268886044,
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source",
-            "source": false
+            "file": "II perks.md"
           }
         }
       },
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "II perks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +97,8 @@
   },
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
+    "II perks.md",
+    "II stuff/Perks 1.md",
     "Untitled.md",
     "II stuff/Perks.md",
     "Roadmap.md",
@@ -106,8 +106,6 @@
     "II stuff/Perk info.md",
     "dsdsd.md",
     "Iron fists.md",
-    "aaaaaa.md",
-    "Untitled/Untitled Kanban.md",
-    "Perks.md"
+    "aaaaaa.md"
   ]
 }
