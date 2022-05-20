@@ -8,8 +8,8 @@ kanban-plugin: basic
 
 - [ ] NPC Intelligentie
 - [ ] ontwikkeling van II roadmap
-- [ ] crafting lijst
 - [ ] hervertaling
+- [ ] crafting lijst
 
 
 ## Bezig; Wat wordt het eigenlijk?
