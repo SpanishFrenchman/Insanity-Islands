@@ -15,8 +15,8 @@ kanban-plugin: basic
 ## Bezig; Wat wordt het eigenlijk?
 
 - [ ] II: One island, two worlds
-- [ ] posten van perks
 - [ ] uitleg over stats deel 2
+- [ ] posten van perks
 
 
 ## Idee klaar; nu aan de slag
