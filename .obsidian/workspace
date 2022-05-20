@@ -7,10 +7,16 @@
         "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "II stuff/Perks.md"
-          }
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "410293d5293eda3c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -88,14 +94,14 @@
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
     "II stuff/Perks.md",
-    "II stuff/Perk info.md",
+    "dsdsd.md",
     "Iron fists.md",
+    "II stuff/Perk info.md",
     "Roadmap.md",
     "README.md",
     "Untitled.md",
     "aaaaaa.md",
     "Untitled/Untitled Kanban.md",
-    "Perks.md",
-    "Hi!!!.md"
+    "Perks.md"
   ]
 }

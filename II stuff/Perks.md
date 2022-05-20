@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Kracht
 
-- [ ] [[Iron fists]]
 
 
 ## Perceptie
