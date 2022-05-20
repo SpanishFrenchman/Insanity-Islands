@@ -7,12 +7,12 @@ kanban-plugin: basic
 ## Nog niet gemaakt; pseudocode?
 
 - [ ] NPC Intelligentie
-- [ ] hervertaling
-- [ ] crafting lijst
 - [ ] ontwikkeling van II roadmap
+- [ ] crafting lijst
+- [ ] hervertaling
 
 
-## Bezig; hoe gaat dat werken
+## Bezig; Wat wordt het eigenlijk?
 
 - [ ] II: One island, two worlds
 - [ ] posten van perks
