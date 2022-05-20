@@ -12,14 +12,14 @@ kanban-plugin: basic
 - [ ] ontwikkeling van II roadmap
 
 
-## Bezig...
+## Bezig; hoe gaat dat werken
 
 - [ ] II: One island, two worlds
 - [ ] posten van perks
 - [ ] uitleg over stats deel 2
 
 
-## Idee klaar; alleen features nog
+## Idee klaar; nu aan de slag
 
 - [ ] II: Souls bound!
 
