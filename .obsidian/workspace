@@ -6,11 +6,21 @@
       {
         "id": "a21ce4b3f8e02e2b",
         "type": "leaf",
+        "dimension": 87.19590268886044,
         "state": {
           "type": "kanban",
           "state": {
-            "file": "II perks.md"
+            "file": "Roadmap.md"
           }
+        }
+      },
+      {
+        "id": "410293d5293eda3c",
+        "type": "leaf",
+        "dimension": 12.804097311139564,
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II perks.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +97,15 @@
   },
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
-    "II perks.md",
-    "II stuff/Perks.md",
-    "II stuff/Perk info.md",
-    "Iron fists.md",
     "Roadmap.md",
-    "README.md",
+    "II perks.md",
+    "II stuff/Perks 1.md",
     "Untitled.md",
-    "aaaaaa.md",
-    "Untitled/Untitled Kanban.md",
-    "Perks.md"
+    "II stuff/Perks.md",
+    "README.md",
+    "II stuff/Perk info.md",
+    "dsdsd.md",
+    "Iron fists.md",
+    "aaaaaa.md"
   ]
 }
