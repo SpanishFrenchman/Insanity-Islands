@@ -8,9 +8,11 @@
         "type": "leaf",
         "dimension": 87.19590268886044,
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Roadmap.md"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +99,12 @@
   },
   "active": "a21ce4b3f8e02e2b",
   "lastOpenFiles": [
-    "Roadmap.md",
+    "README.md",
     "II perks.md",
+    "Roadmap.md",
     "II stuff/Perks 1.md",
     "Untitled.md",
     "II stuff/Perks.md",
-    "README.md",
     "II stuff/Perk info.md",
     "dsdsd.md",
     "Iron fists.md",
