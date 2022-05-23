@@ -4,16 +4,9 @@ kanban-plugin: basic
 
 ---
 
-
-
----
-
-kanban-plugin: basic
-
----
-
 ## Kracht
 
+- [ ] test
 
 
 ## Perceptie
