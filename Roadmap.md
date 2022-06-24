@@ -14,7 +14,6 @@ kanban-plugin: basic
 
 ## Bezig; Wat wordt het eigenlijk?
 
-- [ ] II: One island, two worlds
 - [ ] uitleg over stats deel 2
 - [ ] posten van perks
 
@@ -31,6 +30,7 @@ kanban-plugin: basic
 ## Afgemaakt voor release
 
 **Complete**
+- [x] II: One island, two worlds
 - [x] Noëlle weer terug in de server doen
 
 
