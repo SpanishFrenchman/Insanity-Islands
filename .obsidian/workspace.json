@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wester.md",
+                "file": "Karakters/Lotte.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wester.md",
+                "file": "Karakters/Lotte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "32f3fc5ad83ffb62",
   "lastOpenFiles": [
-    "Justine.md",
-    "Wester.md",
-    "Amir.md",
-    "Noëlle.md",
+    "Karakters/Sven.md",
+    "Karakters/Wester.md",
+    "Karakters/Justine.md",
+    "Karakters/Amir.md",
+    "Karakters/Noëlle.md",
     "Karakters/Loredana.md",
     "Karakters/Lotte.md",
     "Karakters/Farid.md",
     "Karakters/Tycho.md",
-    "Karakters/Sven.md",
     "II perks.md",
     "Karakters/Karakters.md",
     "Context",
