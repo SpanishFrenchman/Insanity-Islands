@@ -11,9 +11,11 @@
             "id": "f2839c5cb898979a",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Karakters"
+                "file": "Wester.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -96,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,12 +125,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f2839c5cb898979a",
+  "active": "32f3fc5ad83ffb62",
   "lastOpenFiles": [
+    "Justine.md",
+    "Wester.md",
+    "Amir.md",
+    "Noëlle.md",
+    "Karakters/Loredana.md",
+    "Karakters/Lotte.md",
+    "Karakters/Farid.md",
+    "Karakters/Tycho.md",
     "Karakters/Sven.md",
     "II perks.md",
     "Karakters/Karakters.md",
-    "Karakters/Tycho.md",
     "Context",
     "Karakters/Fynne.md",
     "Karakters",
