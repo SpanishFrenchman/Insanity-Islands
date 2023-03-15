@@ -7,4 +7,6 @@ Special attack: Immunity.
 		"Denken ze echt dat ik pijn voel?"
 
 Trait: Je kan geen pijn voelen
-	"Kan je niet lopen "
+	"Kan je niet lopen omdat jouw been is gebroken? Zwak."
+
+Voordelen:
