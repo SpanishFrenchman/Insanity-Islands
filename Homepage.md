@@ -1,1 +1,1 @@
-Dit is Insanity Islands, een cracked tabletop rpg ontwikkeld door S. Ander Nobbel
+Dit is Insanity Islands, een cracked tabletop rpg ontwikkeld door S. Ander Nobbels, professioneel quantummachinist. Deze obsidian vault wordt onderhouden met de hulp van Fynne, professioneel 
