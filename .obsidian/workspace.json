@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Karakters.md",
+                "file": "Karakters/Sven.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Karakters.md",
+                "file": "Karakters/Sven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +114,15 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1378b8509ecfd060",
+  "active": "eb9eeabe8fbcf633",
   "lastOpenFiles": [
+    "Karakters/Karakters.md",
     "Karakters/Tycho.md",
     "Karakters/Sven.md",
-    "Karakters/Karakters.md",
     "Karakters/Fynne.md",
     "Karakters",
     "Roadmap.md",
