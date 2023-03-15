@@ -44,5 +44,13 @@
       ],
       "key": "S"
     }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }

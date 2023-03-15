@@ -11,15 +11,26 @@
             "id": "10ace5c59a1407b3",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "II perks.md"
+              }
+            }
+          },
+          {
+            "id": "312ffcdf81195b5d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Karakters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Karakters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +115,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "10ace5c59a1407b3",
+  "active": "312ffcdf81195b5d",
   "lastOpenFiles": [
     "II perks.md",
-    "Roadmap.md",
+    "Karakters.md",
     "README.md",
+    "Roadmap.md",
     "II stuff/Perks 1.md",
-    "Untitled.md",
     "II stuff/Perks.md",
     "II stuff/Perk info.md",
     "dsdsd.md",
