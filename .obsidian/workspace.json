@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Amir.md",
+                "file": "Karakters/Farid.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Amir.md",
+                "file": "Karakters/Farid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +115,13 @@
   },
   "active": "1378b8509ecfd060",
   "lastOpenFiles": [
+    "Karakters/Amir.md",
     "Karakters/Sven.md",
     "Karakters/Wester.md",
     "Karakters/Lotte.md",
     "Karakters/Loredana.md",
     "Karakters/Fynne.md",
     "Karakters/Farid.md",
-    "Karakters/Amir.md",
     "Homepage.md",
     "Roadmap.md",
     "Karakters/Tycho.md",
