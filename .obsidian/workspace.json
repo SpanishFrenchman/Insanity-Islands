@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2839c5cb898979a",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Karakters"
-              }
-            }
-          },
-          {
             "id": "1378b8509ecfd060",
             "type": "leaf",
             "state": {
@@ -122,7 +112,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f2839c5cb898979a",
+  "active": "32f3fc5ad83ffb62",
   "lastOpenFiles": [
     "Karakters/Karakters.md",
     "Karakters/Amir.md",
