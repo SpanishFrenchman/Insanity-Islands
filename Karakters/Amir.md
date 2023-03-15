@@ -16,4 +16,7 @@ Nadelen: Hij verkrijgt 2x zoveel (limb)damage
 
 Special Perk: Traceless Walker
 	- Laat geen sporen achter zand, grind, modder etc.
-	Extra: Maak ook geen geluid
+	Extra: Maak ook geen geluid als je op deze soorten grond staat.
+		
+Overige Perks:
+	
