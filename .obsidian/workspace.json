@@ -11,11 +11,9 @@
             "id": "f2839c5cb898979a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Karakters/Lotte.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Karakters"
               }
             }
           },
@@ -98,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Lotte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +122,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32f3fc5ad83ffb62",
+  "active": "f2839c5cb898979a",
   "lastOpenFiles": [
-    "Karakters/Sven.md",
-    "Karakters/Wester.md",
     "Karakters/Justine.md",
+    "Karakters/Sven.md",
+    "Karakters/Tycho.md",
+    "Karakters/Wester.md",
     "Karakters/Amir.md",
+    "Karakters/Lotte.md",
     "Karakters/Noëlle.md",
     "Karakters/Loredana.md",
-    "Karakters/Lotte.md",
     "Karakters/Farid.md",
-    "Karakters/Tycho.md",
     "II perks.md",
     "Karakters/Karakters.md",
     "Context",
