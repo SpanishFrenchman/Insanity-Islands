@@ -19,4 +19,6 @@ Special Perk: Traceless Walker
 	Extra: Maak ook geen geluid als je op deze soorten grond staat.
 		"Ik heb nooit gezegd dat ik niet kon lopen. Hoe bedoel je?"
 Overige Perks:
-	
+	Treethletic I
+		Je kan bomen beklimmen
+			""
