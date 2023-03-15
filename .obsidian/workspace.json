@@ -11,11 +11,9 @@
             "id": "466cf3050a101ff2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "Roadmap.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +105,10 @@
   },
   "active": "466cf3050a101ff2",
   "lastOpenFiles": [
-    "II perks.md",
-    "Homepage.md",
     "README.md",
     "Roadmap.md",
+    "Homepage.md",
+    "II perks.md",
     "II stuff/Perks 1.md",
     "II stuff/Perks.md",
     "II stuff/Perk info.md",
