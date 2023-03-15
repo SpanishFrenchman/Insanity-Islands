@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "8444cac1b3bda06f",
+            "id": "1378b8509ecfd060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fynne.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6533967dc1eb5f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sven.md",
+                "file": "Tycho.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sven.md",
+                "file": "Tycho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,14 +117,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6533967dc1eb5f9c",
+  "active": "1378b8509ecfd060",
   "lastOpenFiles": [
-    "Karakters.md",
-    "Tycho.md",
-    "Fynne.md",
     "Sven.md",
-    "Homepage.md",
+    "Karakters.md",
     "Roadmap.md",
+    "Fynne.md",
+    "Tycho.md",
+    "Homepage.md",
     "II perks.md",
     "conflict-files-obsidian-git.md",
     "README.md",
