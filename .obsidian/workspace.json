@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "790a64f8616a3905",
+        "id": "8bc3325236496716",
         "type": "tabs",
         "children": [
           {
-            "id": "10ace5c59a1407b3",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "II perks.md"
-              }
-            }
-          },
-          {
-            "id": "312ffcdf81195b5d",
+            "id": "163509bda6cd6f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters.md",
+                "file": "Sven.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters.md",
+                "file": "Sven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,12 +104,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "312ffcdf81195b5d",
+  "active": "163509bda6cd6f5a",
   "lastOpenFiles": [
+    "Sven.md",
+    "II perks.md",
+    "Karakters.md",
     "Roadmap.md",
     "README.md",
-    "Karakters.md",
-    "II perks.md",
     "II stuff/Perks 1.md",
     "II stuff/Perks.md",
     "II stuff/Perk info.md",
