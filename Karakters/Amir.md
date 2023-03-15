@@ -2,4 +2,4 @@
 Ras: Aardling
 Special attack: Immunity
 	Stamina cost: 2
-	Description: Verkrij
+	Description: Krijg 0 damage voo
