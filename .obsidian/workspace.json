@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Farid.md",
+                "file": "Karakters/Amir.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6a2fb2ef247f493c",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Farid.md",
+                "file": "Karakters/Amir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +116,13 @@
   },
   "active": "1378b8509ecfd060",
   "lastOpenFiles": [
+    "Karakters/Farid.md",
     "Karakters/Amir.md",
     "Karakters/Sven.md",
     "Karakters/Wester.md",
     "Karakters/Lotte.md",
     "Karakters/Loredana.md",
     "Karakters/Fynne.md",
-    "Karakters/Farid.md",
     "Homepage.md",
     "Roadmap.md",
     "Karakters/Tycho.md",
