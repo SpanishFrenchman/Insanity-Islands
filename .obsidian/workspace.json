@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8bc3325236496716",
+        "id": "e88ca2893ca8792d",
         "type": "tabs",
         "children": [
           {
-            "id": "163509bda6cd6f5a",
+            "id": "f2839c5cb898979a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +99,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "163509bda6cd6f5a",
+  "active": "f2839c5cb898979a",
   "lastOpenFiles": [
+    "Roadmap.md",
+    "Karakters.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Homepage.md",
     "Sven.md",
     "II perks.md",
-    "Karakters.md",
-    "Roadmap.md",
-    "README.md",
     "II stuff/Perks 1.md",
     "II stuff/Perks.md",
     "II stuff/Perk info.md",
