@@ -14,4 +14,6 @@ Voordelen:
 Nadelen: Hij verkrijgt 2x zoveel (limb)damage
 	"Wat? Denk je dat degene met de spierziekte STERK zou zijn ofzo?"
 
-S
+Special Perk: Traceless Walker
+	- Laat geen sporen achter zand, grind, modder etc.
+	Extra: Maak ook geen geluid
