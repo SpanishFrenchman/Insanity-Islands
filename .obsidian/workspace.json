@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Karakters/Wester.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Karakters/Wester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +115,15 @@
   },
   "active": "1378b8509ecfd060",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Roadmap.md",
+    "Karakters/Wester.md",
     "Karakters/Amir.md",
     "Karakters/Tycho.md",
     "Karakters/Amir.md.txt",
     "Karakters/Karakters.md",
     "Karakters/Justine.md",
     "Karakters/Sven.md",
-    "Karakters/Wester.md",
     "Karakters/Lotte.md",
     "Karakters/Noëlle.md",
     "Karakters/Loredana.md",
@@ -130,8 +132,6 @@
     "Context",
     "Karakters/Fynne.md",
     "Karakters",
-    "Roadmap.md",
-    "Homepage.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "II stuff/Perks 1.md",
