@@ -6,3 +6,5 @@ De actieve spelers in Sven's spel momenteel zijn:
 * Fynne, een magician en necromancer
 * Sven, een mens en dokter
 * Farid, een magician en druïde
+* Sebas, een aardling? en musicus?
+* 
