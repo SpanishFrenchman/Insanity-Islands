@@ -2,4 +2,6 @@
 Ras: Aardling
 Special attack: Immunity
 	Stamina cost: 2
-	Description: Krijg 0 damage voo
+	Description: Krijg 0 damage voor 2 beurten
+		_Denken ze echt dat ik pijn voel?_
+
