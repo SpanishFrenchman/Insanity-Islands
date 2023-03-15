@@ -6,4 +6,5 @@ Special attack: Immunity.
 	Description: Krijg 0 damage voor 2 beurten.
 		"Denken ze echt dat ik pijn voel?"
 
-Trait: 
+Trait: Je kan geen pijn voelen
+	"Kan je niet lopen "
