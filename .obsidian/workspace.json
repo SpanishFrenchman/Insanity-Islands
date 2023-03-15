@@ -11,9 +11,11 @@
             "id": "f2839c5cb898979a",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Karakters"
+                "file": "Karakters/Amir.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -96,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Karakters/Amir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
