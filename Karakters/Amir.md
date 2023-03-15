@@ -10,3 +10,6 @@ Trait: Je kan geen pijn voelen
 	"Kan je niet lopen omdat jouw been is gebroken? Zwak."
 
 Voordelen:
+
+Nadelen: Hij verkrijgt 2x zoveel (limb)damage
+	""
