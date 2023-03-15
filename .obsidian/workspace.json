@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Fynne.md",
+                "file": "Karakters/Karakters.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Fynne.md",
+                "file": "Karakters/Karakters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,14 +117,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb9eeabe8fbcf633",
+  "active": "1378b8509ecfd060",
   "lastOpenFiles": [
+    "Karakters/Tycho.md",
     "Karakters/Sven.md",
     "Karakters/Karakters.md",
+    "Karakters/Fynne.md",
     "Karakters",
     "Roadmap.md",
-    "Karakters/Tycho.md",
-    "Karakters/Fynne.md",
     "Homepage.md",
     "II perks.md",
     "conflict-files-obsidian-git.md",
