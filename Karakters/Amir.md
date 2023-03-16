@@ -25,3 +25,10 @@ Overige Perks:
 	Treethletic I
 		Je kan bomen beklimmen
 			"Wie heeft er nou spieren nodig om een boom te beklimmen?"
+
+SPECIAL
+S: 2
+P: 2
+E: 5
+C: 3
+I: 
