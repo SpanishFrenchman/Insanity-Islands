@@ -11,7 +11,7 @@ Trait: Je kan geen pijn voelen
 
 Voordelen: Hij zal geen trauma of sanityverlies lijden wanneer hij te veel stress heeft.
 	"Het doet niet pijn als je er niet aan denkt."
-
+- Hij heeft een klein mesje (zo klein, dat het geen inventory of gewicht in)
 Nadelen: Hij verkrijgt 2x zoveel (limb)damage.
 	"Wat? Denk je dat degene met de spierziekte STERK zou zijn ofzo?"
 
