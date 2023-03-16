@@ -9,9 +9,10 @@ Special attack: Immunity.
 Trait: Je kan geen pijn voelen
 	"Kan je niet lopen omdat jouw been is gebroken? Zwak."
 
-Voordelen:
+Voordelen: Hij zal geen trauma of sanityverlies lijden wanneer hij te veel stress heeft.
+	"Het doet niet pijn als je er niet aan denkt."
 
-Nadelen: Hij verkrijgt 2x zoveel (limb)damage
+Nadelen: Hij verkrijgt 2x zoveel (limb)damage.
 	"Wat? Denk je dat degene met de spierziekte STERK zou zijn ofzo?"
 
 Special Perk: Traceless Walker
