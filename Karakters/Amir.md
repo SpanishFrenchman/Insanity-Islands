@@ -38,4 +38,5 @@ L: 1
 
 Info:
 Amir heeft een spierziekte. Hierdoor lijdt hij ALTIJD aan deze debuffs
--  Alle acties 
+-  Alle acties die stamina kosten kosten 2 keer zoveel stamina
+- Als je geen stamina hebt, dan doet hij 1 melee damage
