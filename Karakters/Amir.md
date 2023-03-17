@@ -35,3 +35,6 @@ C: 3
 I: 4 (3 + 1)
 A: 3
 L: 1
+
+Info:
+Amir heeft een spierziekte. Hierdoor lijdt hij ALTIJD aan deze debuff
