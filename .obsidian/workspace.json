@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Wester.md",
+                "file": "Karakters/Amir.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Wester.md",
+                "file": "Karakters/Amir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "1378b8509ecfd060",
   "lastOpenFiles": [
-    "Karakters/Amir.md",
     "Karakters/Wester.md",
+    "Karakters/Amir.md",
     "Homepage.md",
     "Roadmap.md",
     "Karakters/Karakters.md",
