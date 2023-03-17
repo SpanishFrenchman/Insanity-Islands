@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Amir.md",
+                "file": "Karakters/Wester.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Amir.md",
+                "file": "Karakters/Wester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +115,14 @@
   },
   "active": "1378b8509ecfd060",
   "lastOpenFiles": [
-    "Homepage.md",
     "Karakters/Amir.md",
-    "Karakters/Karakters.md",
+    "Karakters/Wester.md",
+    "Homepage.md",
     "Roadmap.md",
+    "Karakters/Karakters.md",
     "Pasted image 20230316074927.png",
     "Karakters/Farid.md",
     "Karakters/Sven.md",
-    "Karakters/Wester.md",
     "Karakters/Lotte.md",
     "Karakters/Loredana.md",
     "Karakters/Fynne.md",
