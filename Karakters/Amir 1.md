@@ -11,7 +11,7 @@ Trait: Je kan geen pijn voelen
 
 Voordelen: Hij zal geen trauma of sanityverlies lijden wanneer hij te veel stress heeft.
 	"Het doet niet pijn als je er niet aan denkt."
-- Hij heeffsefsft een klein mesje (zo klein, dat het geen inventory of gewicht inneemt) waarmee hij dingen kan markeren. Als hij terugwilt naar zijn markering, weet hij exact waar die is en zal hij rechtstreeks daar naartoe gaan.
+- Hij heeft een klein mesje (zo klein, dat het geen inventory of gewicht inneemt) waarmee hij dingen kan markeren. Als hij terugwilt naar zijn markering, weet hij exact waar die is en zal hij rechtstreeks daar naartoe gaan.
 	"Ik heb het gestolen van de Atoom, maar dat verklaart nog steeds niet hoezo dit ding magisch is."
 
 Nadelen: Hij verkrijgt 2x zoveel (limb)damage.
@@ -30,7 +30,7 @@ Overige Perks:
 SPECIAL
 S: 2
 P: 2
-E: 5fsefsfsef
+E: 5
 C: 3
 I: 4 (3 + 1)
 A: 3
@@ -45,4 +45,6 @@ Amir lijdt aan IMM. Hierdoor lijdt hij ALTIJD aan deze debuffs
 	- Om voort te bewegen heeft hij de hulp van 1 ander persoon nodig. 
 	- Als zijn benen/armen gewond zijn, dan kan hij niet meer acties doen die stamina kosten die te maken hebben met dat lichaamsledemaat.
 
+Panic-Button
+Wanneer Amir dood hoort te gaan, sterft hij niet en activeert Panic-Button. Hierdoor c
 
