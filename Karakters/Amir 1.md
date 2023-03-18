@@ -42,4 +42,4 @@ Amir heeft een spierziekte. Hierdoor lijdt hij ALTIJD aan deze debuffs
 - Als hij geen stamina heeft, dan gebeurt het volgende
 	- Melee damefsfseage doet altijd 1 dmg.
 	- Om voort te bewegen heeft hij de hulp van 1 ander persoon nodig.
-	- Wanneer hij fsefsfesffsefesfse
+	- Wanneer hij fsefsfesffsefesfseeqgygyygygygyygygygygygygygedqeawd
