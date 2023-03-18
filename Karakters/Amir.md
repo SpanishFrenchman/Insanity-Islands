@@ -46,4 +46,7 @@ Amir lijdt aan IMM. Hierdoor lijdt hij ALTIJD aan deze debuffs
 	- Als zijn benen/armen gewond zijn, dan kan hij niet meer acties doen die stamina kosten die te maken hebben met dat lichaamsledemaat.
 
 Panic-Button
-Wanneer Amir dood hoort te gaan, sterft hij niet en activeert Panic-Button. Hierdoor verandert hij in een sterke bruut (vergelijkbaar met Nemesis van Resident Evil). Zijn Strenght wordt automatisch 10 en hij heeft onmiddelijk 500 hp (alsof hij een Endurance van 5 heeft) en oneindig stamina. Hoewel hij zijn intelligentie en spraak behoudt, is die echter gelimiteerd en verlaag zijn 
+Wanneer Amir dood hoort te gaan, sterft hij niet en activeert Panic-Button. Hierdoor verandert hij in een sterke bruut (vergelijkbaar met Nemesis van Resident Evil). 
+- Zijn Strenght wordt automatisch 10 en hij heeft onmiddelijk 500 hp (alsof hij een Endurance van 5 heeft) en oneindig stamina. - 
+- Hoewel hij zijn intelligentie en spraak behoudt, is die echter gelimiteerd en verlaagt zijn Charisma naar 1. 
+- Hij kan nog steeds (vuur)wapens, granaten enz. gebruiken, maar  hij zal veel minder voorzichter zijn met 
