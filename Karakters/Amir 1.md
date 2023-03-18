@@ -3,7 +3,7 @@ Ras: Aardling.
 
 Special attack: Immunity.
 	Stamina cost: 2.
-	Description: Krijg 0 damage voor 2 beurten.
+	Description: Krijg 0 dfasijdidamage voor 2 beurten.
 		"Denken ze echt dat ik pijn voel?"
 
 Trait: Je kan geen pijn voelen
@@ -11,7 +11,7 @@ Trait: Je kan geen pijn voelen
 
 Voordelen: Hij zal geen trauma of sanityverlies lijden wanneer hij te veel stress heeft.
 	"Het doet niet pijn als je er niet aan denkt."
-- Hij heeft een klein mesje (zo klein, dat het geen inventory of gewicht inneemt) waarmee hij dingen kan markeren. Als hij terugwilt naar zijn markering, weet hij exact waar die is en zal hij rechtstreeks daar naartoe gaan.
+- Hij heeffsefsft een klein mesje (zo klein, dat het geen inventory of gewicht inneemt) waarmee hij dingen kan markeren. Als hij terugwilt naar zijn markering, weet hij exact waar die is en zal hij rechtstreeks daar naartoe gaan.
 	"Ik heb het gestolen van de Atoom, maar dat verklaart nog steeds niet hoezo dit ding magisch is."
 
 Nadelen: Hij verkrijgt 2x zoveel (limb)damage.
@@ -30,7 +30,7 @@ Overige Perks:
 SPECIAL
 S: 2
 P: 2
-E: 5
+E: 5fsefsfsef
 C: 3
 I: 4 (3 + 1)
 A: 3
@@ -40,6 +40,6 @@ Info:
 Amir heeft een spierziekte. Hierdoor lijdt hij ALTIJD aan deze debuffs
 -  Alle acties die stamina kosten kosten 2 keer zoveel stamina
 - Als hij geen stamina heeft, dan gebeurt het volgende
-	- Melee damage doet altijd 1 dmg.
+	- Melee damefsfseage doet altijd 1 dmg.
 	- Om voort te bewegen heeft hij de hulp van 1 ander persoon nodig.
-	- Wanneer hij 
+	- Wanneer hij fsefsfesffsefesfse
