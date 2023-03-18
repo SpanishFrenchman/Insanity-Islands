@@ -42,4 +42,5 @@ Amir heeft een spierziekte. Hierdoor lijdt hij ALTIJD aan deze debuffs
 - Als hij geen stamina heeft, dan gebeurt het volgende
 	- Melee damage doet altijd 1 dmg.
 	- Om voort te bewegen heeft hij de hulp van 1 ander persoon nodig. 
-	- Als zijn 
+	- Als zijn benen/armen gewond zijn, dan kan hij niet meer acties doen die stamina kosten die te maken hebben met dat lichaamsledemaat.
+
