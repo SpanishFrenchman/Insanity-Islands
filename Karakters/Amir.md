@@ -3,7 +3,7 @@ Ras: Aardling.
 
 Special attack: Immunity.
 	Stamina cost: 2.
-	Description: Krijg 0 damage voor 2 beurten.
+	Description: Krijg 0 dfasijdidamage voor 2 beurten.
 		"Denken ze echt dat ik pijn voel?"
 
 Trait: Je kan geen pijn voelen
@@ -37,9 +37,13 @@ A: 3
 L: 1
 
 Info:
-Amir heeft een spierziekte. Hierdoor lijdt hij ALTIJD aan deze debuffs
+Ignotus Musculus Morbus
+Amir lijdt aan IMM. Hierdoor lijdt hij ALTIJD aan deze debuffs
 -  Alle acties die stamina kosten kosten 2 keer zoveel stamina
 - Als hij geen stamina heeft, dan gebeurt het volgende
 	- Melee damage doet altijd 1 dmg.
-	- Om voort te bewegen heeft hij de hulp van 1 ander persoon nodig.
-	- Wanneer hij 
+	- Om voort te bewegen heeft hij de hulp van 1 ander persoon nodig. 
+	- Als zijn benen/armen gewond zijn, dan kan hij niet meer acties doen die stamina kosten die te maken hebben met dat lichaamsledemaat.
+
+Panic-Button
+Wanneer Amir dood hoort te gaan, sterft hij niet en activeert Panic-Button. Hierdoor verandert hij in een sterke bruut (vergelijkbaar met Nemesis van Resident Evil). Zijn Strenght wordt automatisch 10 en hij heeft onmiddelijk 500 hp (alsof hij een Endurance van 5 heeft) en oneindig stamina. Hoewel hij zijn intelligentie en spraak behoudt, is die echter gelimiteerd en verlaag zijn 
