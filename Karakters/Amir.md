@@ -50,4 +50,8 @@ Wanneer Amir dood hoort te gaan, sterft hij niet en activeert Panic-Button. Hier
 - Zijn Strenght wordt automatisch 10 en hij heeft onmiddelijk 500 hp (alsof hij een Endurance van 5 heeft) en oneindig stamina. - 
 - Hoewel hij zijn intelligentie en spraak behoudt, is die echter gelimiteerd en verlaagt zijn Charisma naar 1. 
 - Hij kan nog steeds (vuur)wapens, granaten enz. gebruiken, maar  hij zal veel minder voorzichter zijn als hij een wapen in zijn handen heeft
-Na enige tijd deactiveert Panic Button en verandert Amir weer terug.
+Na enige tijd deactiveert Panic Button en verandert Amir weer terug. Om Panic Button weer beschikbaar te maken, moet hij max stamina hebben en meer dan 75% HP
+
+Het nemen van Adrenaline haalt voor een korte tijd zijn IMM weg
+
+Het nemen van Adrenaline onder effect van 
