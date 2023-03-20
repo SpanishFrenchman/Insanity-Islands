@@ -17,10 +17,16 @@ Trait: Je kan langer in de kou overleven, maar korter in de hitte.
 Voordelen:
 
 - Hij kan de eigenschappen van elke plant herkennen (vergiftiging, gezondheid, etc.)
-	"Jullie menselijke wappies kennen planten slechts van boeken, toch?"
-- Wilde dieren zullen zich altijd neutraal tegenover hem en zijn groep zijn (als die bij farid zijn obviously), of ze vlees of geen vlees eten.
-	"Je moet dieren begrijpen. Ze hebben ook een ziel, net zoals mensen."
 
-Nadelen
+"Jullie menselijke wappies kennen planten slechts van boeken, 
+toch?"
+
+-  Wilde dieren zullen zich altijd neutraal tegenover hem en zijn groep zijn (als die bij farid zijn obviously), of ze vlees of geen vlees eten.
+
+"Je moet dieren begrijpen. Ze hebben ook een ziel, net zoals mensen."
+
+Nadelen:
+
+Farid ziet zichz
 
 
