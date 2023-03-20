@@ -18,6 +18,6 @@ Voordelen:
 
 - Hij kan de eigenschappen van elke plant herkennen (vergiftiging, gezondheid, etc.)
 	"Jullie menselijke wappies kennen planten slechts van boeken, toch?"
-- 
+- Wilde dieren zullen zich altijd neutraal tegenover hem en zijn groep zijn (als die bij farid zijn obviously), of ze vlees of geen vlees eten
 
 
