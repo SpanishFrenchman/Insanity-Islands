@@ -1,1 +1,2 @@
-
+Ras: Magician
+	Familie: 
