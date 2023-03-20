@@ -35,7 +35,7 @@ Nadelen:
 	Farid verliest onmiddelijk 10 sanity als hij actief weet over de moord van een dier. (Door het te zien, te horen etc.)
 	
 	Farid is wel bewust dat anderen wel vlees willen eten of dierenkleed willen dragen, dus hij zal geen sanity verlies ervaren als mensen leer dragen of vlees eten.
-"Moord is moord. We moeten"
+"Moord is moord. Als jij het leven van een mens waardeert, dan moet je mij het leven van een dier laten waarderen."
 
 
 
