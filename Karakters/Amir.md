@@ -35,7 +35,7 @@ Special Perk: Traceless Walker
 
 Starter Perk I:
 	Treethletic I
-		Je kan bomen beklimmen
+	Je kan bomen beklimmen
 
 "Wie heeft er nou spieren nodig om een boom te beklimmen?"
 
