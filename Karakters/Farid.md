@@ -55,6 +55,20 @@ Starter Perk II:
 
 "Je moet dieren begrijpen. Ze hebben ook een ziel, net zoals mensen."
 
+SPECIAL:
+
+S: 2
+
+P: 2
+
+E: 3
+
+C: 3
+
+I: 1
+
+A: 5 ()
+
 Info:
 Were-Bear
 
