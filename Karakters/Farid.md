@@ -51,8 +51,8 @@ Overige Perks:
 	II: Je kan met dieren praten
 
 "'Je moet begrijpen, jonge sterveling, dat het lang duurt om iets in Kraai te zeggen. En we zeggen nooit iets, tenzij het de moeite waard is om er lang over te doen."
-
-	Aniam
+Animal Whi
+	
 
 
 
