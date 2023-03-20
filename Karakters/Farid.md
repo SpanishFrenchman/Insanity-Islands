@@ -27,6 +27,6 @@ toch?"
 
 Nadelen:
 
-Farid ziet zichz
+Farid ziet zichzelf als een superieure omnivoor, en vind dat net zoals goden nooit mensenvlees eet of mensenhuid dragen, dat hij ook nooit vlees of leer zou dragen
 
 
