@@ -73,4 +73,4 @@ Het nemen van Adrenaline onder effect van Adrenaline activeert onmiddelijk Panic
 
 Amir is misschien verbannen, maar dat betekent niet dat hij zwak is. De vraag is echter of hij het nog kan overleven met z'n gelimiteerde krachten. Ontsnappen is namelijk makkelijker gezegd dan gedaan.
 
-Hint: 
+Hint: Amir kan ervoor zorgen dat gevechten echte pushoce
