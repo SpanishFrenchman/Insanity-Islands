@@ -36,7 +36,7 @@ Overige Perks:
 
 SPECIAL
 S: 2
-dmkiaidm
+
 P: 2
 
 E: 5
