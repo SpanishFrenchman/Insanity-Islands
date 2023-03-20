@@ -80,6 +80,6 @@ Nadat hij 3 porties vlees heeft geconsumeerd, zal hij onmiddelijk veranderen in 
 - Hij krijgt een Damage Threshold van 50 HP
 - Hij verliest zijn spraak met mens en dier. (Hij zal een server mute ontvangen, maar hij kan je nog steeds horen. Wel kan Farid mij Dms sturen om te laten tonen of hij knikt, aanvalt, etc.)
 - Hij zal vlees kunnen eten zonder consequenties. De consumptie van vlees verlengt ook zijn Were-Bear
-- Als hij na 1 dag te weinig heef
+- Hij kan bij lage HP of bij hoge stress controle verliezen en dan gaat het karakter in een frenzy, 
 
 
