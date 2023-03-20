@@ -18,6 +18,6 @@ Voordelen:
 
 - Hij kan de eigenschappen van elke plant herkennen (vergiftiging, gezondheid, etc.)
 	"Jullie menselijke wappies kennen planten slechts van boeken, toch?"
-
+- 
 
 
