@@ -81,6 +81,7 @@ Nadat hij 3 porties vlees heeft geconsumeerd, zal hij onmiddelijk veranderen in 
 - Hij verliest zijn spraak met mens en dier. (Hij zal een server mute ontvangen, maar hij kan je nog steeds horen. Wel kan Farid mij Dms sturen om te laten tonen of hij knikt, aanvalt, etc.)
 - Hij zal vlees kunnen eten zonder consequenties. De consumptie van vlees verlengt ook zijn Were-Bear
 - Hij kan bij lage HP of bij hoge stress controle verliezen en dan gaat het karakter in een frenzy.
-Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stamina. Were-Bear heeft dan een cooldown van 
+Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stamina. Were-Bear heeft dan een cooldown van 1,5 dagen, maar de consumptie van een portie vlees verlaagt de lengte met -0,1.
+
 
 
