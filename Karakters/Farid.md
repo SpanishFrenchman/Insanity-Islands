@@ -8,4 +8,6 @@ Special Attack: Conversion
 
 "Ik ben een met de dieren, en zij zijn een met mij."
 
-Trait: Dankzij jouw 
+Trait: Je kan langer in de kou overleven, maar korter in de hitte.
+
+"Lotte, ik zweer op mijn linkje dat "
