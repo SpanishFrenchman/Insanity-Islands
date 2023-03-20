@@ -38,7 +38,8 @@ Nadelen:
 
 "Moord is moord. Als jij het leven van een mens waardeert, dan moet je mij het leven van een dier laten waarderen."
 
-Special perk: Animal Whisperer
+Special perk: Animal Battle Cry II
+	I Roep dieren 
 
 
 
