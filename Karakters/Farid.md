@@ -67,11 +67,13 @@ C: 3
 
 I: 1
 
-A: 5 ()
+A: 5 (4+1)
+
+L: 3
 
 Info:
-Were-Bear
 
+Van buiten
 
 
 
