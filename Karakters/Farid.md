@@ -1,2 +1,5 @@
 Ras: Magician
-	Familie: 
+	Familie: Faunatica
+	Beoefening: Faunatica
+
+Special Attack:
