@@ -70,3 +70,5 @@ Tijdens het overleven kan hij serums vinden die zijn verandering aanpassen.
 Het nemen van Adrenaline haalt voor een korte tijd zijn IMM weg.
 
 Het nemen van Adrenaline onder effect van Adrenaline activeert onmiddelijk Panic Button.
+
+Hoewel Amir be
