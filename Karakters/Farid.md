@@ -21,7 +21,7 @@ Voordelen:
 "Jullie menselijke wappies kennen planten slechts van boeken, 
 toch?"
 
--  Wilde dieren zullen zich altijd neutraal tegenover hem en zijn groep zijn (als die bij farid zijn obviously), of ze vlees of geen vlees eten.
+
 
 "Je moet dieren begrijpen. Ze hebben ook een ziel, net zoals mensen."
 
@@ -52,7 +52,7 @@ Overige Perks:
 
 "'Je moet begrijpen, jonge sterveling, dat het lang duurt om iets in Kraai te zeggen. En we zeggen nooit iets, tenzij het de moeite waard is om er lang over te doen."
 
-	
+	Aniam
 
 
 
