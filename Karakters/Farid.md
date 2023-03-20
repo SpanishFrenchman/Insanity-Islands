@@ -17,6 +17,7 @@ Trait: Je kan langer in de kou overleven, maar korter in de hitte.
 Voordelen:
 
 - Hij kan de eigenschappen van elke plant herkennen (vergiftiging, gezondheid, etc.)
-	"Jul"
+	"Jullie menselijke wappies kennen planten slechts van boeken, toch?"
+
 
 
