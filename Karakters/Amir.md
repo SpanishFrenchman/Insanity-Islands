@@ -33,7 +33,7 @@ Special Perk: Traceless Walker
 
 "Ik heb nooit gezegd dat ik niet kon lopen. Hoe bedoel je?"
 
-Overige Perks:
+Starter Perk I:
 	Treethletic I
 		Je kan bomen beklimmen
 
