@@ -39,7 +39,9 @@ Nadelen:
 "Moord is moord. Als jij het leven van een mens waardeert, dan moet je mij het leven van een dier laten waarderen."
 
 Special perk: Animal Battle Cry II
-	I Roep dieren 
+	I: Roep willekeurige dieren op tijdens combat.
+	II: De oproepen zullen minder "riskant" zijn.
+	+ Je mag een dier naar keuze oproepen. Wel zal dat stamina kosten, afhankelijk van welk dier het is. 
 
 
 
