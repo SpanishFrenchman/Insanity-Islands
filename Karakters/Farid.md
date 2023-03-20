@@ -45,7 +45,8 @@ Special Perk: Animal Battle Cry II
 
 "Animalia, pugna pro diis!!!"
 
-Overige Perks
+Overige Perks:
+	Animal Whisperer
 
 
 
