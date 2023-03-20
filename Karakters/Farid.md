@@ -46,7 +46,11 @@ Special Perk: Animal Battle Cry II
 "Animalia, pugna pro diis!!!"
 
 Overige Perks:
-	Animal Whisperer
+	Animal Whisperer II
+	I: Je kan dieren verstaan
+	II: Je kan met dieren praten
+
+""
 
 
 
