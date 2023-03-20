@@ -40,6 +40,7 @@ Overige Perks:
 "Wie heeft er nou spieren nodig om een boom te beklimmen?"
 
 SPECIAL
+
 S: 2
 
 P: 2
