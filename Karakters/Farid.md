@@ -1,6 +1,8 @@
 Ras: Magician
-	Familie: Faunatica
-	Beoefening: Faunatica
+
+Familie: Faunatica
+
+Beoefening: Faunatica
 
 Special Attack: Conversion
 	Stamina Cost: 2
