@@ -71,4 +71,6 @@ Het nemen van Adrenaline haalt voor een korte tijd zijn IMM weg.
 
 Het nemen van Adrenaline onder effect van Adrenaline activeert onmiddelijk Panic Button.
 
-Amir is misschien verbannen, maar dat betekent niet dat hij 
+Amir is misschien verbannen, maar dat betekent niet dat hij zwak is. De vraag is echter of hij het nog kan overleven met z'n gelimiteerde krachten. Ontsnappen is namelijk makkelijker gezegd dan gedaan.
+
+Hint: 
