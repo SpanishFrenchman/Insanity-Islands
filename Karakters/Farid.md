@@ -72,8 +72,8 @@ A: 5 (4+1)
 L: 3
 
 Info:
-
-Van buiten
+Were-Bear
+Van buiten is hij misschien mens, maar onder speciale omstandigheden zal hij z'n innerlijke zie
 
 
 
