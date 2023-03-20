@@ -21,10 +21,6 @@ Voordelen:
 "Jullie menselijke wappies kennen planten slechts van boeken, 
 toch?"
 
-
-
-"Je moet dieren begrijpen. Ze hebben ook een ziel, net zoals mensen."
-
 Nadelen:
 
 - Farid ziet zichzelf als een superieure omnivoor, en vind dat net zoals goden nooit mensenvlees eet of mensenhuid dragen, dat hij ook nooit vlees of leer zal dragen.
@@ -52,7 +48,11 @@ Starter Perk I:
 
 "Je moet begrijpen, jonge sterveling, dat het lang duurt om iets in Kraai te zeggen. En we zeggen nooit iets, tenzij het de moeite waard is om er lang over te doen."
 
-Starter Perk II
+Starter Perk II:
+	Animal Friend II
+	I: Wilde, bevriende dieren zullen voor je vechten (niet tegen andere dieren).
+	II: Ze zullen ook tegen andere dieren vechten.
 
+""
 
 
