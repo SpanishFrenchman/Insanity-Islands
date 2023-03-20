@@ -41,7 +41,9 @@ Nadelen:
 Special perk: Animal Battle Cry II
 	I: Roep willekeurige dieren op tijdens combat.
 	II: De oproepen zullen minder "riskant" zijn.
-	+ Je mag een dier naar keuze oproepen. Wel zal dat stamina kosten, afhankelijk van welk dier het is. 
+	+ Je mag een dier naar keuze oproepen. Wel zal dat stamina kosten, afhankelijk van welk dier het is.
+
+""
 
 
 
