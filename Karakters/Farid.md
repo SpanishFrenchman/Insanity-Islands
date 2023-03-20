@@ -78,7 +78,7 @@ Nadat hij 3 porties vlees heeft geconsumeerd, zal hij onmiddelijk veranderen in 
 - Zijn Strenght en Endurance veranderen onmiddelijk naar 10
 - Hij verkrijgt immuniteit tegenover hypothermia
 - Hij krijgt een Damage Threshold van 50 HP
-- Hij 
-
+- Hij verliest zijn spraak met mens en dier. (Hij zal een server mute ontvangen, maar hij kan je nog steeds horen. Wel kan Farid mij Dms sturen om te laten tonen of hij knikt, aanvalt, etc.)
+- Hij zal vlees kunnen eten zonder 
 
 
