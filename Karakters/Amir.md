@@ -8,20 +8,25 @@ Special attack: Immunity.
 "Denken ze echt dat ik pijn voel?"
 
 Trait: Je kan geen pijn voelen
-	"Kan je niet lopen omdat jouw been is gebroken? Zwak."
+
+"Kan je niet lopen omdat jouw been is gebroken? Zwak."
 
 Voordelen: Hij zal geen trauma of sanityverlies lijden wanneer hij te veel stress heeft.
-	"Het doet niet pijn als je er niet aan denkt."
+
+"Het doet niet pijn als je er niet aan denkt."
 - Hij heeft een klein mesje (zo klein, dat het geen inventory of gewicht inneemt) waarmee hij dingen kan markeren. Als hij terugwilt naar zijn markering, weet hij exact waar die is en zal hij rechtstreeks daar naartoe gaan.
-	"Ik heb het gestolen van de Atoom, maar dat verklaart nog steeds niet hoezo dit ding magisch is."
+ 
+"Ik heb het gestolen van de Atoom, maar dat verklaart nog steeds niet hoezo dit ding magisch is."
 
 Nadelen: Hij verkrijgt 2x zoveel (limb)damage.
-	"Wat? Denk je dat degene met de spierziekte STERK zou zijn ofzo?"
+
+"Wat? Denk je dat degene met de spierziekte STERK zou zijn ofzo?"
 
 Special Perk: Traceless Walker
 	- Laat geen sporen achter zand, grind, modder etc.
 	Extra: Maak ook geen geluid als je op deze soorten grond staat.
-		"Ik heb nooit gezegd dat ik niet kon lopen. Hoe bedoel je?"
+
+"Ik heb nooit gezegd dat ik niet kon lopen. Hoe bedoel je?"
 
 Overige Perks:
 	Treethletic I
