@@ -53,6 +53,8 @@ Starter Perk II:
 	I: Wilde, bevriende dieren zullen voor je vechten (niet tegen andere dieren).
 	II: Ze zullen ook tegen andere dieren vechten.
 
-""
+"Je moet dieren begrijpen. Ze hebben ook een ziel, net zoals mensen."
+
+
 
 
