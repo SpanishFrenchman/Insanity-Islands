@@ -6,4 +6,6 @@ Special Attack: Conversion
 	Stamina Cost: 2
 	Description: Hoogstens 2 dieren aan de kant van de vijand zullen voor jou vechten.
 
-""
+"Ik ben een met de dieren, en zij zijn een met mij."
+
+Trait: Dankzij jouw 
