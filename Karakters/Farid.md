@@ -16,4 +16,4 @@ Trait: Je kan langer in de kou overleven, maar korter in de hitte.
 
 Voordelen:
 
-- Hij kan planten 
+- Hij kan planten herkennen die gezond of gif
