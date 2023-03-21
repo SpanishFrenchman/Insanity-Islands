@@ -4,4 +4,7 @@ Familie: Illusionist
 
 Beoefening: Magica Oscurus
 
-Special Attac
+Special Attack: Hunt
+	Stamina Cost: 2
+	Additional requirements: Hunger <= 50%
+	Description:
