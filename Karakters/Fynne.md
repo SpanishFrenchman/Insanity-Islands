@@ -34,4 +34,5 @@ Special Perk: Taboo Eater I
 "Hey! Het is niet per se ongezond! Het bevat meer proteïnen dan koeienvlees!"
 
 Starter Perk I:
-	
+	Soul Medic I
+	I: Je kan mensen terugbrengen met jouw Sacrimes ten koste van wat HP.
