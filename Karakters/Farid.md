@@ -86,7 +86,7 @@ Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stami
 
 Er zijn alternatieve vormen om in een beer te veranderen.
 
-1: Een offer consumeren om onmiddelijk in een beer te veranderen. Je maakt het  met  van vlees, stokjes en wat dierenbloed
+1: Een offer consumeren om onmiddelijk in een beer te veranderen. Je maakt het met vlees, stokjes en wat dierenbloed.
 
 
 
