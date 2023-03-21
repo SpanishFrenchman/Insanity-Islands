@@ -57,4 +57,4 @@ L: 3
 
 Info: 
 Blood Knife
-Fynne heeft een mes in zijn
+Fynne heeft een Sacrimes in zijn arm
