@@ -25,7 +25,8 @@ Nadelen:
 
 - Farid ziet zichzelf als een superieure omnivoor, en vind dat net zoals goden nooit mensenvlees eet of mensenhuid dragen, dat hij ook nooit vlees of leer zal dragen.
 	
-	 Als hij vlees consumeert, dan raakt hij tijdelijk in een "mourning" mode, wat zijn gave met dieren verhindert. 
+	 Als hij vlees consumeert, dan raakt hij tijdelijk in een "mourning" mode, wat zijn gave met dieren verhindert. Als hij tijdens "mourning" nog meer vlees eet, verliest hij 5 Sanity
+	 Bij kleding 
 
 
 "Moord is moord. Als jij het leven van een mens waardeert, dan moet je mij het leven van een dier laten waarderen."
