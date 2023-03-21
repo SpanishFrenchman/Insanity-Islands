@@ -39,8 +39,8 @@ Special Perk: Animal Battle Cry II
 
 Starter Perk I:
 	Animal Whisperer II
-	I: Je kan dieren verstaan
-	II: Je kan met dieren praten
+	I: Je kan dieren verstaan.
+	II: Je kan met dieren praten.
 
 "Je moet begrijpen, jonge sterveling, dat het lang duurt om iets in Kraai te zeggen. En we zeggen nooit iets, tenzij het de moeite waard is om er lang over te doen."
 
@@ -71,9 +71,9 @@ Info:
 Were-Bear
 Van buiten is hij misschien mens, maar onder speciale omstandigheden zal hij z'n innerlijke ziel tonen.
 Nadat hij 3 porties vlees heeft geconsumeerd, zal hij onmiddelijk veranderen in een beer.
-- Zijn Strenght en Endurance veranderen onmiddelijk naar 10
-- Hij verkrijgt immuniteit tegenover hypothermia
-- Hij krijgt een Damage Threshold van 50 HP
+- Zijn Strenght en Endurance veranderen onmiddelijk naar 10.
+- Hij verkrijgt immuniteit tegenover hypothermia.
+- Hij krijgt een Damage Threshold van 50 HP.
 - Hij verliest zijn spraak met mens en dier. (Hij zal een server mute ontvangen, maar hij kan je nog steeds horen. Wel kan Farid mij Dms sturen om te laten tonen of hij knikt, aanvalt, etc.)
 - Hij zal vlees kunnen eten zonder consequenties. 
 - Hij kan bij lage HP of bij hoge stress controle verliezen en dan gaat het karakter in een frenzy.
@@ -94,13 +94,13 @@ Farid heeft Wolverine-achtige berenklauwen gemaakt van bot. Hij behoudt ze zowel
 - Durability: High
 
 Als zijn klauwen kapotgaan, zal farid onmiddelijk aan deze gevolgen lijden:
-- 20 trauma
+- 20 trauma.
 - 0 Damage (Unarmed)
-- Verlies van 1 Strenght
+- Verlies van 1 Strenght.
 
-Klauwen duren 5 dagen om te regenereren
+Klauwen duren 5 dagen om te regenereren.
 
-Als ze voor meer dan 2 dagen niet gebruikt worden, beginnen ze ook met regenereren
+Als ze voor meer dan 2 dagen niet gebruikt worden, beginnen ze ook met regenereren.
 
 
 

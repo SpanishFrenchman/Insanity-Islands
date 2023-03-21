@@ -11,7 +11,7 @@ Special Attack: Hunger Games
 
 "Mijn honger is gevuld en de klootzak is dood. Ik zie alleen maar voordelen"
 
-Trait: Jouw reputatie gaat sneller omhoog, maar ook sneller omlaag
+Trait: Jouw reputatie gaat sneller omhoog, maar ook sneller omlaag.
 
 "Pff, mensen luisteren alleen naar dramatische dingen. HET WAS MAAR EEN KIND!"
 
@@ -28,8 +28,8 @@ Nadelen:
 "Ik ben niet zo eng hoor. Zoals ik net al zei, het was maar een kind..."
 
 Special Perk: Taboo Eater I
-	I: Je kan mensenvlees eten, ten koste van Karma en 10 Sanity
-	+ Je verliest geen Sanity
+	I: Je kan mensenvlees eten, ten koste van Karma en 10 Sanity.
+	+ Je verliest geen Sanity.
 
 "Hey! Het is niet per se ongezond! Het bevat meer proteïnen dan koeienvlees!"
 
