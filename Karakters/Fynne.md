@@ -31,4 +31,6 @@ Special Perk: Taboo Eater I
 	I: Je kan mensenvlees eten, ten koste van Karma en 10 Sanity
 	+ Je verliest geen Sanity
 
-""
+"Hey! Het is niet per se ongezond! Het bevat meer proteïnen dan koeienvlees!"
+
+Starter Perk I
