@@ -25,4 +25,6 @@ Nadelen:
 
 - Omdat mensen altijd een slecht vooroordeel van hem hebben, begint fynne met een negatieve reputatie.
 
-"Ik ben niet zx"
+"Ik ben niet zo eng hoor. Zoals ik net al zei, het was maar een kind..."
+
+Special Perk: Taboo Eater I
