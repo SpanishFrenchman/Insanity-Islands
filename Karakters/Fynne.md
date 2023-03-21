@@ -17,4 +17,4 @@ Trait: Jouw reputatie gaat sneller omhoog, maar ook sneller omlaag
 
 Voordelen:
 
-- 
+- Fynne kan 
