@@ -28,3 +28,5 @@ Nadelen:
 "Ik ben niet zo eng hoor. Zoals ik net al zei, het was maar een kind..."
 
 Special Perk: Taboo Eater I
+	I: Je kan mensenvlees eten, ten koste van Karma en 10 Sanity
+	+ 
