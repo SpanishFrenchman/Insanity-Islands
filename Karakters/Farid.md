@@ -89,7 +89,7 @@ Er zijn alternatieve vormen om in een beer te veranderen.
 1: Een offer consumeren om onmiddelijk in een beer te veranderen. Je maakt het met vlees, stokjes en wat dierenbloed.
 2: Als Farid blootgesteld word aan het licht van een volle maan, verandert hij ook in een beer.
 
-Om Farid in een mens terug te veranderen, moet hij met een sacrimes in een van zijn poten gestoken
+Om Farid in een mens terug te veranderen, moet hij met een sacrimes een deel van het vacht snijden van zijn buik. Dit doet 20 Damage, ma
 
 
 
