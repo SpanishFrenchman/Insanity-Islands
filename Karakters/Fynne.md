@@ -7,4 +7,4 @@ Beoefening: Magica Oscurus
 Special Attack: Hunt
 	Stamina Cost: 2
 	Additional requirements: Hunger <= 50%
-	Description:
+	Description: Fynne kiest een prooi om hem
