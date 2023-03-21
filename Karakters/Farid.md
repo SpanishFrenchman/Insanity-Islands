@@ -96,7 +96,7 @@ Farid heeft Wolverine-achtige berenklauwen gemaakt van bot. Hij behoudt ze zowel
 - Damage: 20 * 2
 - Durability: High
 
-Als zijn klauwen kapotgaan, dan zal farid onmiddelijk aan deze gevolgen lijden:
+Als zijn klauwen kapotgaan, zal farid onmiddelijk aan deze gevolgen lijden:
 - + 20 trauma
 - 0 Damage (Unarmed)
 - - 1 Strenght
