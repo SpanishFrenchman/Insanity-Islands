@@ -24,8 +24,8 @@ toch?"
 Nadelen:
 
 - Farid ziet zichzelf als een superieure omnivoor, en vind dat net zoals goden nooit mensenvlees eet of mensenhuid dragen, dat hij ook nooit vlees of leer zal dragen.
-De consumptie van vlees of het dragen van kleding van leer, vacht, etc. hindert de gave om te communiceren met dieren
-	
+	De consumptie van vlees of het dragen van kleding van leer, vacht, etc. hindert de gave om te communiceren met dieren
+		- 
 	Het dragen van kleding gemaakt van vacht, leer of andere dierlijke producten veroorzaakt een sanity verlies van 5 per minuut.
 	
 	Farid verliest onmiddelijk 10 sanity als hij actief weet over de moord van een dier. (Door het te zien, te horen etc.)
