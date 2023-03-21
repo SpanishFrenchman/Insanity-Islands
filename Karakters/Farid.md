@@ -102,5 +102,7 @@ Klauwen duren 5 dagen om te regenereren.
 
 Als ze voor meer dan 2 dagen niet gebruikt worden, beginnen ze ook met regenereren.
 
-Voor iemand
+Voor iemand die alleen met dieren heeft geleefd voor 16 jaar lang, weet Farid verdacht veel over menselijke uitvindingen zoals plastic, vuurwapens en merken, maar niemand weet hoe.
+
+Hint
 
