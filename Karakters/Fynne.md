@@ -38,3 +38,7 @@ Starter Perk I:
 	I: Je kan mensen terugbrengen met jouw Sacrimes ten koste van wat HP.
 
 "Officium tuum non est super!"
+
+SPECIAL:
+
+S:
