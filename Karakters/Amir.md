@@ -7,7 +7,7 @@ Special Attack: Immunity.
 
 "Denken ze echt dat ik pijn voel?"
 
-Trait: Je kan geen pijn voelen
+Trait: Je kan geen pijn voelen.
 
 "Kan je niet lopen omdat jouw been is gebroken? Zwak."
 
@@ -57,9 +57,9 @@ L: 1
 
 Info:
 Ignotus Musculus Morbus
-Amir lijdt aan IMM. Hierdoor lijdt hij ALTIJD aan deze debuffs
--  Alle acties die stamina kosten kosten 2 keer zoveel stamina
-- Als hij geen stamina heeft, dan gebeurt het volgende
+Amir lijdt aan IMM. Hierdoor lijdt hij ALTIJD aan deze debuffs.
+-  Alle acties die stamina kosten kosten 2 keer zoveel stamina.
+- Als hij geen stamina heeft, dan gebeurt het volgende.
 	- Melee damage doet altijd 1 dmg.
 	- Om voort te bewegen heeft hij de hulp van 1 ander persoon nodig. 
 	- Als zijn benen/armen gewond zijn, dan kan hij niet meer acties doen die stamina kosten die te maken hebben met dat lichaamsledemaat.
