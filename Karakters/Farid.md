@@ -79,7 +79,7 @@ Nadat hij 3 porties vlees heeft geconsumeerd, zal hij onmiddelijk veranderen in 
 - Hij verkrijgt immuniteit tegenover hypothermia
 - Hij krijgt een Damage Threshold van 50 HP
 - Hij verliest zijn spraak met mens en dier. (Hij zal een server mute ontvangen, maar hij kan je nog steeds horen. Wel kan Farid mij Dms sturen om te laten tonen of hij knikt, aanvalt, etc.)
-- Hij zal vlees kunnen eten zonder consequenties. De consumptie van vlees verlengt ook zijn Were-Bear
+- Hij zal vlees kunnen eten zonder consequenties. 
 - Hij kan bij lage HP of bij hoge stress controle verliezen en dan gaat het karakter in een frenzy.
 
 Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stamina. Were-Bear heeft dan een cooldown van 1,5 dagen, maar de consumptie van een portie vlees verlaagt de lengte met -0,1.
@@ -87,6 +87,7 @@ Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stami
 Er zijn alternatieve vormen om in een beer te veranderen.
 
 1: Een offer consumeren om onmiddelijk in een beer te veranderen. Je maakt het met vlees, stokjes en wat dierenbloed.
+2: Als je 
 
 
 
