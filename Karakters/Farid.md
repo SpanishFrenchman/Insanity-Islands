@@ -97,9 +97,9 @@ Farid heeft Wolverine-achtige berenklauwen gemaakt van bot. Hij behoudt ze zowel
 - Durability: High
 
 Als zijn klauwen kapotgaan, zal farid onmiddelijk aan deze gevolgen lijden:
--  20 trauma
+- 20 trauma
 - 0 Damage (Unarmed)
-- 1 Strenght
+- Verlies van 1 Strenght
 Klauwen duren 5 dagen om te regenereren
 
 Als ze voor meer dan 2 dagen niet gebruikt worden, beginnen ze ook met regenereren
