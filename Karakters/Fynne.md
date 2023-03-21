@@ -58,4 +58,5 @@ L: 3
 Info: 
 Blood Knife
 Fynne heeft een Sacrimes in zijn arm die hij eruit kan trekken ten koste van 10 HP. Maar het is niet zomaar een Sacrimes
-- Je kan jouw mes werpen naar vijanden (tot en met Medium)
+- Je kan jouw mes werpen naar vijanden (tot en met Medium Range)  en hij zal automatisch terugkeren. (2 x 30 Damage)
+- Ook kan je jouw mes 
