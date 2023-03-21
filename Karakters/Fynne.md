@@ -17,4 +17,4 @@ Trait: Jouw reputatie gaat sneller omhoog, maar ook sneller omlaag
 
 Voordelen:
 
-- Fynne heeft veel ervaring met bootvaart, dus de dingen die daarmee te 
+- Fynne heeft veel ervaring met bootvaart, dus de dingen die daarmee te maken hebben (boten, zeilen, etc.) zijn automatisch van betere kwaliteit.
