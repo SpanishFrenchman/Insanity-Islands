@@ -36,3 +36,5 @@ Special Perk: Taboo Eater I
 Starter Perk I:
 	Soul Medic I
 	I: Je kan mensen terugbrengen met jouw Sacrimes ten koste van wat HP.
+
+
