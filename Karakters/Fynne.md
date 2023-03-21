@@ -41,4 +41,12 @@ Starter Perk I:
 
 SPECIAL:
 
-S:
+S: 1
+
+P: 2
+
+E: 3
+
+C: 4
+
+I: 5 ()
