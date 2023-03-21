@@ -55,3 +55,5 @@ A: 2
 
 L: 3
 
+Info: 
+Blood Knife
