@@ -29,4 +29,6 @@ Nadelen:
 
 Special Perk: Taboo Eater I
 	I: Je kan mensenvlees eten, ten koste van Karma en 10 Sanity
-	+ 
+	+ Je verliest geen Sanity
+
+""
