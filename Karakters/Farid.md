@@ -84,5 +84,9 @@ Nadat hij 3 porties vlees heeft geconsumeerd, zal hij onmiddelijk veranderen in 
 
 Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stamina. Were-Bear heeft dan een cooldown van 1,5 dagen, maar de consumptie van een portie vlees verlaagt de lengte met -0,1.
 
+Er zijn alternatieve vormen om in een beer te veranderen.
+
+1: Een offer maken van vlees, stokjes en wat dierenbloed om onmiddelijk in
+
 
 
