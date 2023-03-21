@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Fynne.md",
+                "file": "Karakters/Farid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80e4619b7f5d9af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karakters/Isa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Fynne.md",
+                "file": "Karakters/Isa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +126,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1378b8509ecfd060",
+  "active": "32f3fc5ad83ffb62",
   "lastOpenFiles": [
-    "Karakters/Farid.md",
     "Karakters/Fynne.md",
+    "Karakters/Isa.md",
+    "Karakters/Farid.md",
     "Karakters/Amir.md",
     "[[[[[[Animal Friend II.md",
     "Karakters/Justine.md",

@@ -15,3 +15,6 @@ Trait: Jouw reputatie gaat sneller omhoog, maar ook sneller omlaag
 
 "Pff, mensen luisteren alleen naar dramatische dingen. HET WAS MAAR EEN KIND!"
 
+Voordelen:
+
+- 
