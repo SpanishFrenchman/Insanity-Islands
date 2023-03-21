@@ -58,5 +58,5 @@ L: 3
 Info: 
 Blood Knife
 Fynne heeft een Sacrimes in zijn arm die hij eruit kan trekken ten koste van 10 HP. Maar het is niet zomaar een Sacrimes
-- Fynne kan zijn mes werpen naar vijanden (tot en met Medium Range)  en hij zal automatisch terugkeren. (2 x 30 Damage)
-- Ook kan Fynne die mes als melee wapen gebruiken. Elke keer dat Fynne een
+- Fynne kan zijn mes werpen naar vijanden (tot en met Medium Range) en hij zal automatisch terugkeren. (2 x 30 Damage)
+- Ook kan Fynne die mes als melee wapen gebruiken. Elke keer dat Fynne een persoon doodt met die mes, zal de mes langzamerhand rood worden. Als hij felrood is, kan Fynne iemand reviven zonder zijn hand te offeren
