@@ -23,4 +23,6 @@ Voordelen:
 
 Nadelen:
 
--  
+- Omdat mensen altijd een slecht vooroordeel van hem hebben, begint fynne met een negatieve reputatie.
+
+"Ik ben niet zx"
