@@ -23,7 +23,7 @@ Voordelen:
 
 Nadelen:
 
-- Omdat mensen altijd een slecht vooroordeel van hen hebben, begint fynne met een negatieve reputatie.
+- Omdat mensen altijd een slecht vooroordeel van hun hebben, begint Fynne met een negatieve reputatie.
 
 "Ik ben niet zo eng hoor. Zoals ik net al zei, het was maar een kind..."
 
@@ -62,3 +62,7 @@ Fynne heeft een Sacrimes in hun arm die diens eruit kan trekken ten koste van 10
 - Ook kan Fynne die mes als melee wapen gebruiken. Elke keer dat Fynne een persoon doodt met die mes, zal de mes langzamerhand rood worden. Als hij felrood is, kan Fynne iemand reviven zonder hun hand te offeren
 
 Wanneer Fynne hun mes niet gebruikt, zal de mes in zijn arm terugkeren en dan krijgt Fynne weer 10 HP 
+
+Tijdens het overleven kan Fynne "special moves" leren die te maken hebben met Blood Knife
+
+Van een eiland naar een ander 
