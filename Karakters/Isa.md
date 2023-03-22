@@ -30,6 +30,7 @@ Nadelen:
 
 "Je kan de overheid NOOIT vertrouwen. Ze zijn overal tegenwoordig."
 
-Special Perk: Gambling Maniac 
+Special Perk: Biohazardous Stomach I
+I: Minder kans op ziekte door parasieten en andere natuurlijke aandoeningen die door voedsel of drinken kunnen worden veroorza
 
 
