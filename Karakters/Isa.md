@@ -34,6 +34,10 @@ Special Perk: Biohazardous Stomach I
 	I: Minder kans op ziekte door parasieten en andere natuurlijke aandoeningen die door voedsel of drinken kunnen worden veroorzaakt.
 	+ Kan altijd proeven of iets gezond is om te eten of niet
 
-"AHA! Ik wist wel dat dit voedsel"
+"AHA! Ik wist wel dat deze kip gestuurd werd door de overheid!"
+
+Starter Perk I
+	Caravan Master I
+	I: Prijzen zijn ietsje voordeliger geworden.
 
 
