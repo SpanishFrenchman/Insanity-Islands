@@ -26,7 +26,7 @@ Nadelen:
 
 "Oh god, er zijn twee midgets, REN!"
 
-- Isa verkrijgt stress 
+- Isa verkrijgt stress als hij High-Tech gereedschap/wapens/etc. gebruikt.
 
-"De genocide van ArmeniË was echt verscrhikkeloijk"
+"Je kan de over"
 
