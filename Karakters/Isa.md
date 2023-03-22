@@ -1,3 +1,3 @@
 Ras: Mens
 
-Special Attack:
+Special Attack: Tran
