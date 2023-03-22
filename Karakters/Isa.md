@@ -40,4 +40,7 @@ Starter Perk I
 	Caravan Master I
 	I: Prijzen zijn ietsje voordeliger geworden.
 
-"Daniël, ik geef je 20$ en een-"
+"Daniël, ik geef je 20$ en een- wacht eens even, jij bent niet Daniël."
+
+Starter Perk II
+	
