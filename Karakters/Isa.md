@@ -16,6 +16,6 @@ Voordelen:
 
 "Hmmmmm Brainchewers.... Is dat niet gewoon cocaïne?"
 
-- Flirt opties zullen bekend voor Isa zijn via DM tijdens dialoog.
+- .
 
-""
+"Saddam Huisen"
