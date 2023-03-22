@@ -46,4 +46,13 @@ Starter Perk II
 	Bartender I
 	I: Brouw alcoholische drankjes.
 
-""
+"Dussss, mag ik eerst wat te drinken voor je halen?"
+
+SPECIAL
+
+S: 2
+
+P: 4
+
+E: 1
+
