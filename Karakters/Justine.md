@@ -7,7 +7,7 @@ Special Attack: Shock Charge
 
 "Ha! Threat Terminated"
 
-Trait: 
+Trait: Justine is immuun
 
 
 
