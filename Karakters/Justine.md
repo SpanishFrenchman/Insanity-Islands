@@ -1,6 +1,8 @@
 Ras: Phantom
 
-S
+Special Attack: Shock Charge
+	Stamina Cost: 2
+	Additional 
 
 
 
