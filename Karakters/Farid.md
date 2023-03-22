@@ -104,5 +104,5 @@ Als ze voor meer dan 2 dagen niet gebruikt worden, beginnen ze ook met regenerer
 
 Voor iemand die alleen met dieren heeft geleefd voor 16 jaar lang, weet Farid verdacht veel over menselijke uitvindingen zoals plastic, vuurwapens en merken, maar niemand weet hoe.
 
-Hint: Were-Bear is heel erg overkill voor kleine problemen. De nadelen zulle
+Hint: Were-Bear is heel erg overkill voor kleine problemen. De nadelen zullen zwaarder wegen dan jouw voordelen als je niet oppast!
 
