@@ -70,7 +70,7 @@ L: 3
 Info:
 Were-Bear
 Van buiten is hij misschien mens, maar onder speciale omstandigheden zal hij z'n innerlijke ziel tonen.
-Nadat hij 3 porties vlees heeft geconsumeerd, zal hij onmiddelijk veranderen in een beer.
+Nadat hij een vleesoffer heeft geconsumeerd, zal hij onmiddelijk veranderen in een beer.
 - Zijn Strenght en Endurance veranderen onmiddelijk naar 10.
 - Hij verkrijgt immuniteit tegenover hypothermia.
 - Hij krijgt een Damage Threshold van 50 HP.

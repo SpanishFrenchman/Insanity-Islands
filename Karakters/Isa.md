@@ -1,3 +1,3 @@
 Ras: Mens
 
-Special
+Special Attack:
