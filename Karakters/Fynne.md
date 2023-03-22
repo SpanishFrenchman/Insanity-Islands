@@ -67,4 +67,4 @@ Tijdens het overleven kan Fynne "special moves" leren die te maken hebben met Bl
 
 Fynne komt van een eiland, en beland weer in een eiland, maar de mensen op dit eiland zijn een stuk meer chaotischer. Zijn eiland was juist meer het tegenovergestelde.
 
-Hint: Fynne is hartstikke belangrijk om mensen te reviven, maar hij is niet sterk genoeg om in zijn eentje te overleven, dus let da
+Hint: Fynne is hartstikke belangrijk om mensen te reviven, maar hij is niet sterk genoeg om in zijn eentje te overleven, dus let daarop!
