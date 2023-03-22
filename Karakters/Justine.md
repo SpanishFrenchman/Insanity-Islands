@@ -2,8 +2,8 @@ Ras: Phantom
 
 Special Attack: Shock Charge
 	Stamina Cost: 2
-	Additional 
+	Additional requirements: 10 Watt
 
 
 
-blad
+
