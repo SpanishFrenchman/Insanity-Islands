@@ -16,5 +16,15 @@ Voordelen:
 
 "Hmmmmm Brainchewers.... Is dat niet gewoon cocaïne?"
 
-- Wanneer isa's honger voor meer dan 50% gevuld is, verkrijgt hij een natuurlijke 20 D
-""
+- Wanneer isa's honger voor meer dan 50% gevuld is, verkrijgt hij een natuurlijke 15 Damage Threshold.
+
+"Ooit dat nieuwtje gelezen over die man die zo massief was dat hij een kogel letterlijk blokkeerde? Dat ben ik dus niet want HIJ WERKT VOOR DE OVERHEID!"
+
+Nadelen:
+1.
+2.
+3.
+4.
+5.
+6.
+
