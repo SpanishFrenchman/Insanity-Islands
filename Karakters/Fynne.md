@@ -65,4 +65,6 @@ Wanneer Fynne hun mes niet gebruikt, zal de mes in zijn arm terugkeren en dan kr
 
 Tijdens het overleven kan Fynne "special moves" leren die te maken hebben met Blood Knife
 
-Van een eiland naar een ander 
+Fynne komt van een eiland, en beland weer in een eiland, maar de mensen op dit eiland zijn een stuk meer chaotischer. Zijn eiland was juist meer het tegenovergestelde.
+
+Hint:
