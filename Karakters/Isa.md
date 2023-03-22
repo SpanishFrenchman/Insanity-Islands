@@ -9,3 +9,5 @@ Special Attack: Lethal Diversion
 Trait: Isa kan slechter omgaan met mensen van het vrouwelijke geslacht, maar wel beter met mensen van het mannelijke geslacht.
 
 "Ik ben een keer afgewezen en dat was niet eens mijn schuld."
+
+Voordelen
