@@ -5,7 +5,7 @@ Special Attack: Shock Charge
 	Additional requirements: 10 Watt
 	Decription: Schok een vijand om hem te verlammen voor 2 beurten.
 
-"Ha! Threat Terminated"
+"Ha! Bedreiging is"
 
 Trait: Justine is immuun
 
