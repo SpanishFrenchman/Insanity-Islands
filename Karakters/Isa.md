@@ -16,4 +16,5 @@ Voordelen:
 
 "Hmmmmm Brainchewers.... Is dat niet gewoon cocaïne?"
 
+- Wanneer isa's honger voor meer dan 50% gevuld is, verkrijgt hij een natuurlijke 20 D
 ""
