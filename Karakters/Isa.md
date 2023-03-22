@@ -28,5 +28,7 @@ Nadelen:
 
 - Isa verkrijgt stress als hij High-Tech gereedschap/wapens/etc. gebruikt.
 
-"Je kan de over"
+"Je kan de overheid NOOIT vertrouwen. Ze zijn overal tegenwoordig."
+
+Special
 
