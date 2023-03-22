@@ -24,4 +24,6 @@ Nadelen:
 
 - Nadat hij een poging heeft gedaan om te vluchten, krijgt hij onmiddelijk het "Exhausted" status effect.
 
-"I"
+"Oh god, er zijn twee midgets, REN!"
+
+- 
