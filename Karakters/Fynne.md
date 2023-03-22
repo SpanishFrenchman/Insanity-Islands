@@ -7,7 +7,7 @@ Beoefening: Magica Oscurus
 Special Attack: Hunger Games
 	Stamina Cost: 2
 	Additional requirements: Hunger <= 50%
-	Description: Fynne kiest een prooi om hem vast op de vloer te pinnen en hem te eten. Vijanden kunnen hem targeten en Fynne zal niet terug kunnen aanvallen. Na 3 beurten is zijn honger gevuld en is de vijand dood.
+	Description: Fynne kiest een prooi om hem vast op de vloer te pinnen en diegene te eten. Vijanden kunnen Fynne targeten en Fynne zal niet terug kunnen aanvallen. Na 3 beurten is zijn honger gevuld en is de vijand dood.
 
 "Mijn honger is gevuld en de klootzak is dood. Ik zie alleen maar voordelen"
 
@@ -59,6 +59,6 @@ Info:
 Blood Knife
 Fynne heeft een Sacrimes in hun arm die diens eruit kan trekken ten koste van 10 HP. Maar het is niet zomaar een Sacrimes
 - Fynne kan hun mes werpen naar vijanden (tot en met Medium Range) en die zal automatisch terugkeren. (2 x 30 Damage)
-- Ook kan Fynne die mes als melee wapen gebruiken. Elke keer dat Fynne een persoon doodt met die mes, zal de mes langzamerhand rood worden. Als hij felrood is, kan Fynne iemand reviven zonder zijn hand te offeren
+- Ook kan Fynne die mes als melee wapen gebruiken. Elke keer dat Fynne een persoon doodt met die mes, zal de mes langzamerhand rood worden. Als hij felrood is, kan Fynne iemand reviven zonder hun hand te offeren
 
-Wanneer Fynne hun mes niet gebruikt, zal 
+Wanneer Fynne hun mes niet gebruikt, zal de mes in zijn arm terugkeren en dan krijgt Fynne weer 10 HP 
