@@ -66,4 +66,6 @@ L: 4 (3+1)
 
 Info:
 Attention Deficit Hyperactivity Disorder
+Isa lijdt aan ADHD. Hierdoor heeft hij 2 personaliteiten. Met medicijnen is hij een beschaafd, charismatisch persoon, maar zonder.....
+
 
