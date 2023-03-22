@@ -83,7 +83,12 @@ I: 1
 
 A: 4
 
-L
+L: 3 (2+1)
+
+
+Isa begint het spel met een pakje medicijnen.
+- Medicijnen werken voor 2 tijdsperiodes
+- 
 
 
 
