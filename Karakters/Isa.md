@@ -68,6 +68,23 @@ Info:
 Attention Deficit Hyperactivity Disorder
 Isa lijdt aan ADHD. Hierdoor heeft hij 2 personaliteiten. Met medicijnen is hij een beschaafd, charismatisch persoon, maar zonder.....
 
-- Onder invloed van medicijnen, behoudt Isa zijn special stats
-- Als de medicijnen zijn uitgewerkt, dan zullen zijn SPECIAL stats hiernaar veranderen
+- Onder invloed van medicijnen, behoudt Isa zijn normale SPECIAL stats.
+- Als de medicijnen zijn uitgewerkt, dan zullen zijn SPECIAL stats hiernaar veranderen:
+
+S: 5
+
+P: 1
+
+E: 4
+
+C: 3
+
+I: 1
+
+A: 4
+
+L
+
+
+
 
