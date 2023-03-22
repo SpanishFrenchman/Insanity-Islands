@@ -14,4 +14,6 @@ Voordelen:
 
 - Drugs zullen 2x langer duren voordat het effect voorbij is.
 
-""
+"Hmmmmm Brainchewers.... Is dat niet gewoon cocaïne?"
+
+- 
