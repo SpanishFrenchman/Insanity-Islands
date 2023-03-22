@@ -88,7 +88,8 @@ L: 3 (2+1)
 
 Isa begint het spel met een pakje medicijnen.
 - Medicijnen werken voor 2 tijdsperiodes
-- 
+- Het pakje bevat 15 pillen.
+- Onderweg kan Isa medicijnen vinden die sterker zijn, of juist medicijnen die zijn ADHD versterken.
 
 
 
