@@ -43,4 +43,7 @@ Starter Perk I
 "Daniël, ik geef je 20$ en een- wacht eens even, jij bent niet Daniël."
 
 Starter Perk II
-	
+	Bartender I
+	I: Brouw alcoholische drankjes.
+
+""
