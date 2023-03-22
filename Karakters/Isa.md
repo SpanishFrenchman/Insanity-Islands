@@ -26,4 +26,7 @@ Nadelen:
 
 "Oh god, er zijn twee midgets, REN!"
 
-- 
+- Isa verkrijgt stress 
+
+"De genocide van ArmeniË was echt verscrhikkeloijk"
+
