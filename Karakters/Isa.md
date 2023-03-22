@@ -12,4 +12,6 @@ Trait: Isa kan slechter omgaan met mensen van het vrouwelijke geslacht, maar wel
 
 Voordelen:
 
-- 
+- Drugs zullen 2x langer duren voordat het effect voorbij is.
+
+""
