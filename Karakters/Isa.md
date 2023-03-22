@@ -21,17 +21,7 @@ Voordelen:
 "Ooit dat nieuwtje gelezen over die man die zo massief was dat hij een kogel letterlijk blokkeerde? Dat ben ik dus niet want HIJ WERKT VOOR DE OVERHEID!"
 
 Nadelen:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
+
+- Nadat hij een poging heeft gedaan om te vluchten, krijgt hij onmiddelijk het "Exhausted" status effect.
+
+"I"
