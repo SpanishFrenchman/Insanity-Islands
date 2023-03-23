@@ -91,6 +91,8 @@ Isa begint het spel met een pakje medicijnen.
 - Het pakje bevat 15 pillen.
 - Onderweg kan Isa medicijnen vinden die sterker zijn, of juist medicijnen die zijn ADHD versterken.
 
+Het is echt pure toeval dat we met een celebrity samen op het eiland zijn. Niet dat hij per se beroemd is door goeie redenen ofzo... maar nog steeds!
 
+Hint:
 
 
