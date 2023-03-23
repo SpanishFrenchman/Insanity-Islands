@@ -93,6 +93,6 @@ Isa begint het spel met een pakje medicijnen.
 
 Het is echt pure toeval dat we met een celebrity samen op het eiland zijn. Niet dat hij per se beroemd is door goeie redenen ofzo... maar nog steeds!
 
-Hint:
+Hint: Het feit dat Isa meerdere SPECIAL vormen kan aannemenm, zorgt ervoor dat hij eigg gwn 2 personen in een is. Maak er gebruik van!
 
 
