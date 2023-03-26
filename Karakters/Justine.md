@@ -19,7 +19,7 @@ Justine kan de lading van elke accu's aanvoelen! (Dit geldt ook voor radio-actie
 
 Nadelen:
 
-Er is een 20% kans dat als Justine
+Er is een 20% kans dat als Justine aangevallen word
 
 
 
