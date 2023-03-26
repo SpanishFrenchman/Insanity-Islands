@@ -13,6 +13,8 @@ Trait: Justine is immuun voor allerlei elektrische schokken (Schokbatons, donder
 
 Voordelen:
 
+Justin
+
 
 
 
