@@ -55,6 +55,11 @@ A: 2
 
 L: 3
 
+Spreuken:
+
+Fyrus
+	Creëer vuur uit jouw hand
+
 Info: 
 Blood Knife
 Fynne heeft een Sacrimes in hun arm die diens eruit kan trekken ten koste van 10 HP. Maar het is niet zomaar een Sacrimes
