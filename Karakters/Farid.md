@@ -81,7 +81,7 @@ Nadat hij een vleesoffer heeft geconsumeerd, zal hij onmiddelijk veranderen in e
 - Hij zal vlees kunnen eten zonder consequenties. 
 - Hij kan bij lage HP of bij hoge stress controle verliezen en dan gaat het karakter in een frenzy.
 
-Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stamina. Were-Bear heeft dan een cooldown van 1,5 dagen, maar de consumptie van een portie vlees verlaagt de lengte met -0,1.
+Na 1 dag te weinig hebben gegeten, zal hij terugveranderen met 10% HP en 0 stamina. Were-Bear heeft dan een cooldown van 5 tijdsperiodes, maar de consumptie van een portie vlees verlaagt de lengte met -0,1.
 
 Er zijn alternatieve vormen om in een beer te veranderen.
 
