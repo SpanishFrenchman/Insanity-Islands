@@ -13,7 +13,7 @@ Trait: Justine is immuun voor allerlei elektrische schokken (Schokbatons, donder
 
 Voordelen:
 
-Justin
+Justine kan de lading van elke accu's aanvoelen! (Dit geldt ook voor radio-actieve magazijnen.)
 
 
 
