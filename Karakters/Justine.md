@@ -7,7 +7,9 @@ Special Attack: Shock Charge
 
 "Ha! Diegene zal geen bedreiging meer vormen!"
 
-Trait: Justine is immuun
+Trait: Justine is immuun voor allerlei elektrische schokken (Schokbatons, donder, etc.) maar ze is vatbaarder voor Radio-activiteit.
+
+""
 
 
 
