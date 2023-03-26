@@ -19,7 +19,10 @@ Justine kan de lading van elke accu's aanvoelen! (Dit geldt ook voor radio-actie
 
 Nadelen:
 
-Er is een 20% kans dat als Justine aangevallen word, dat ze haarzelf schokt, waardoor ze een stun krijgt voor een beurt
+Er is een 20% kans dat als Justine aangevallen word, dat ze haarzelf schokt, waardoor ze een stun krijgt voor een beurt.
+
+"Ik stel me niet aan! Dat deed veel pijn, honest "
+
 
 
 
