@@ -17,6 +17,8 @@ Justine kan de lading van elke accu's aanvoelen! (Dit geldt ook voor radio-actie
 
 "Ja hoor! Deze heeft nog 75 Watt. Dit ding kan nog 7 schoten aan en die accu moet nog laden, hoezo?"
 
+
+
 Nadelen
 
 
