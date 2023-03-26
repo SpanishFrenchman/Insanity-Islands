@@ -9,7 +9,9 @@ Special Attack: Shock Charge
 
 Trait: Justine is immuun voor allerlei elektrische schokken (Schokbatons, donder, etc.) maar ze is vatbaarder voor Radio-activiteit.
 
-""
+"Liever 3 schokken dan 3 tikjes!"
+
+
 
 
 
