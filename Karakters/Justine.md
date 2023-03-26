@@ -11,6 +11,8 @@ Trait: Justine is immuun voor allerlei elektrische schokken (Schokbatons, donder
 
 "Liever 3 schokken dan 3 tikjes!"
 
+Voordelen:
+
 
 
 
