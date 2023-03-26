@@ -57,8 +57,8 @@ L: 3
 
 Spreuken:
 
-Fyrus
-	Creëer vuur uit jouw hand
+Fyrus, 5 mana + 5 mana per tijdsperiode
+	Creëer vuur uit jouw hand. Je kan het ook werpen.
 
 Info: 
 Blood Knife
