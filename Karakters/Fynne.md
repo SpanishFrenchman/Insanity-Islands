@@ -55,6 +55,8 @@ A: 2
 
 L: 3
 
+MANA: 20
+
 Spreuken:
 
 Fyrus, 5 mana + 5 mana per tijdsperiode
