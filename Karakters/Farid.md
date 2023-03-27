@@ -69,8 +69,10 @@ L: 3
 
 Spreuken:
 
-Samonai Serpentum, 5 mana
-	
+Samonai: Serpentum, 5 mana
+	Roep een slang op
+
+Samonai: 
  
 Info:
 Were-Bear
