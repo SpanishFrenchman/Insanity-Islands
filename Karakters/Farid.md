@@ -69,6 +69,8 @@ L: 3
 
 Spreuken:
 
+Samonai Serpentum, 5 mana
+	
  
 Info:
 Were-Bear
