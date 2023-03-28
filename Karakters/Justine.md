@@ -52,7 +52,8 @@ A: 1
 L: 2
 
 Info:
-
+Agent Julliet Tango
+Justine, voordat ze gedeporteerd werd
 
 
 
