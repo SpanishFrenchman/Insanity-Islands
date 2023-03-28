@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Justine.md",
+                "file": "Karakters/Fynne.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,13 +126,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1378b8509ecfd060",
+  "active": "80e4619b7f5d9af3",
   "lastOpenFiles": [
-    "Karakters/Isa.md",
     "Karakters/Fynne.md",
+    "Karakters/Justine.md",
+    "Karakters/Isa.md",
     "Karakters/Amir.md",
     "Karakters/Farid.md",
-    "Karakters/Justine.md",
     "Karakters/Loredana.md",
     "Karakters/Sebastian.md",
     "[[[[[[Animal Friend II.md",

@@ -25,7 +25,9 @@ Er is een 20% kans dat als Justine aangevallen word, dat ze haarzelf schokt, waa
 
 Special Perk: Energy Efficiënt
 	I-A: Elektrische apparatuur die door haar behandelt word, gaat langzamer leeg.
-	
+	+ Je hebt ook I-B (Elektrische apparatuur behandelt door haar, zijn veel effectiever)
+
+""
 
 
 
