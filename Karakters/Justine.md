@@ -23,7 +23,7 @@ Er is een 20% kans dat als Justine aangevallen word, dat ze haarzelf schokt, waa
 
 "Ik stel me niet aan! Dat deed veel pijn, honest to god!"
 
-Special Perk:
+Special Perk: Energy Efficiënt
 
 
 
