@@ -24,8 +24,8 @@ Er is een 20% kans dat als Justine aangevallen word, dat ze haarzelf schokt, waa
 "Ik stel me niet aan! Dat deed veel pijn, honest to god!"
 
 Special Perk: Energy Efficiënt
-	I-A: Elektrische apparatuur die door haar behandelt word, gaat langzamer leeg.
-	+ Je hebt ook I-B (Elektrische apparatuur behandelt door haar, zijn veel effectiever)
+	I-A: Elektrische apparatuur die door jou behandelt word, gaat langzamer leeg.
+	+ Je hebt ook I-B (Elektrische apparatuur behandelt door jou, zijn veel effectiever)
 
 "Het is geen magie hoor. Je moet gewoon beter om kunnen gaan met zaklampen, want anders word ie niet zo glimmend mooi zoals Harry St-"
 
