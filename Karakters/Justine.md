@@ -27,7 +27,10 @@ Special Perk: Energy Efficiënt
 	I-A: Elektrische apparatuur die door haar behandelt word, gaat langzamer leeg.
 	+ Je hebt ook I-B (Elektrische apparatuur behandelt door haar, zijn veel effectiever)
 
-"Het is geen magie hoor. Je moet gewoon beter"
+"Het is geen magie hoor. Je moet gewoon beter om kunnen gaan met zaklampen, want anders word ie niet zo glimmend mooi zoals Harry St-"
+
+Starter Perk I
+	
 
 
 
