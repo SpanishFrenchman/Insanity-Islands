@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Isa.md",
+                "file": "Karakters/Justine.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Isa.md",
+                "file": "Karakters/Justine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +127,8 @@
   },
   "active": "1378b8509ecfd060",
   "lastOpenFiles": [
-    "Karakters/Fynne.md",
     "Karakters/Isa.md",
+    "Karakters/Fynne.md",
     "Karakters/Amir.md",
     "Karakters/Farid.md",
     "Karakters/Justine.md",

@@ -34,7 +34,7 @@ Special Perk: Biohazardous Stomach I
 	I: Minder kans op ziekte door parasieten en andere natuurlijke aandoeningen die door voedsel of drinken kunnen worden veroorzaakt.
 	+ Kan altijd proeven of iets gezond is om te eten of niet.
 
-"AHA! Ik wist wel dat deze kip gestuurd werd door de overheid!"
+"AHA! Ik wist wel dat deze kip vergiftigd werd door de overheid!"
 
 Starter Perk I
 	Caravan Master I
@@ -87,7 +87,7 @@ L: 3 (2+1)
 
 
 Isa begint het spel met een pakje medicijnen.
-- Medicijnen werken voor 2 tijdsperiodes
+- Medicijnen werken voor 2 tijdsperiodes.
 - Het pakje bevat 15 pillen.
 - Onderweg kan Isa medicijnen vinden die sterker zijn, of juist medicijnen die zijn ADHD versterken.
 
