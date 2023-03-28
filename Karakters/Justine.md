@@ -30,7 +30,8 @@ Special Perk: Energy Efficiënt
 "Het is geen magie hoor. Je moet gewoon beter om kunnen gaan met zaklampen, want anders word ie niet zo glimmend mooi zoals Harry St-"
 
 Starter Perk I
-	
+	Burn-Munne
+	I: 
 
 
 
