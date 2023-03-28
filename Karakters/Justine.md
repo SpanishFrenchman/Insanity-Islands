@@ -31,7 +31,9 @@ Special Perk: Energy Efficiënt
 
 Starter Perk I
 	Burn-Munne
-	I: 
+	I: Je zal minder snel een brandwond krijgen.
+
+ "Ik kan hot zijn zonder aan de consequenties te lijden,"
 
 
 
