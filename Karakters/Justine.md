@@ -33,7 +33,24 @@ Starter Perk I
 	Burn-Munne
 	I: Je zal minder snel een brandwond krijgen.
 
- "Ik kan hot zijn zonder aan de consequenties te lijden,"
+ "Ik kan hot zijn zonder aan de consequenties te lijden. Whoosh!"
+
+SPECIAL:
+
+S: 3
+
+P: 1
+
+E: 5
+
+C: 
+
+I
+
+A
+
+L
+
 
 
 
