@@ -27,7 +27,7 @@ Special Perk: Energy Efficiënt
 	I-A: Elektrische apparatuur die door haar behandelt word, gaat langzamer leeg.
 	+ Je hebt ook I-B (Elektrische apparatuur behandelt door haar, zijn veel effectiever)
 
-""
+"Het is geen magie hoor. Je moet gewoon beter"
 
 
 
