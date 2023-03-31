@@ -61,7 +61,7 @@ Geluidsmaskering
 
 Slaapdarts-Receiver
 	Locatie: Rechterarm
-	Omschrijving
+	Omschrijving: Schiet 
 
 
 
