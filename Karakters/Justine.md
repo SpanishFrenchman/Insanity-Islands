@@ -56,10 +56,11 @@ Agent Julliet Tango
 Justine, voordat ze gedeporteerd werd, had ze een baan bij de Geheime Dienst. Hierdoor heeft ze ook 2 simpele modules geïnstalleerd:
 
 Geluidsmaskering
-	Locatie: Torso.
+	Locatie: Torso
 	Omschrijving: Als zij in Sneak modus is, dan zal ze geen geluid produceren.
 
-Slaapdarts-Revei
+Slaapdarts-Receiver
+	Locatie: 
 
 
 
