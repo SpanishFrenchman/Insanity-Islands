@@ -60,7 +60,7 @@ Geluidsmaskering
 	Omschrijving: Als zij in Sneak modus is, dan zal ze geen geluid produceren.
 
 Slaapdarts-Receiver
-	Locatie: 
+	Locatie: Rechterarm
 
 
 
