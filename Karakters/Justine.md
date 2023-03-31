@@ -61,6 +61,7 @@ Geluidsmaskering
 
 Slaapdarts-Receiver
 	Locatie: Rechterarm
+	Omschrijving
 
 
 
