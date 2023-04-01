@@ -62,8 +62,8 @@ Geluidsmaskering
 
 Slaapdarts-Receiver
 	Locatie: Rechterarm
-	Minimum: 20-
-	Omschrijving: Schiet een slaapdart naar jouw vijand.
+	Minimum: 200W
+	Omschrijving: Je begint met 3 darts. Schiet een slaapdart naar jouw vijand om hem in te slapen.
 
 
 
