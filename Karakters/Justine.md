@@ -81,6 +81,8 @@ W verlaagt door:
 	Stamina-kostende activiteiten te doen zonder dat je überhaupt stamina hebt. (50W per Staminapunt)
 
 W verhoogt door
+	Voor een hele tijdsperiode onder de 20 Stress te zijn. (+10W)
+	Het afnemen van stroom van batterijen, accu's, etc.
 	
 
 
