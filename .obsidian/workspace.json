@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Lotte.md",
+                "file": "Karakters/Farid.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1378b8509ecfd060",
+  "active": "80e4619b7f5d9af3",
   "lastOpenFiles": [
     "Karakters/Farid.md",
     "Karakters/Lotte.md",
