@@ -2,7 +2,7 @@ Ras: Phantom
 
 Special Attack: Shock Charge
 	Stamina Cost: 2
-	Additional requirements: 10 Watt
+	Additional requirements: 10W
 	Decription: Schok een vijand om hem te verlammen voor 2 beurten.
 
 "Ha! Diegene zal geen bedreiging meer vormen!"
@@ -68,7 +68,9 @@ Slaapdarts-Receiver
 Onderweg kan Justine meerdere modules vinden die ze kan installeren.
 
 M.E.C.H.
-Justine heeft een M.E.C.H. (Mechanised Energy Core in Heart) in plaats van een normaal 
+Justine heeft een normaal functionerende M.E.C.H. (Mechanised Energy Core in Heart). Die geeft haar lichaam elektriciteit, zodat ze meer geavanceerde taken kan doen.
+
+Naast HP heb je nu ook W (Watt)
 
 
 
