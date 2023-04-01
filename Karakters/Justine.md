@@ -87,7 +87,7 @@ W verhoogt door
 	Een hele dag geen schade lijden. (+50W)
 	Goed te hebben gegeten, gedronken en geslapen binnen een dag. (+10W)
 
-Wanneer Justine
+Wanneer Justine Damage krijgt en tot de 
 
 
 
