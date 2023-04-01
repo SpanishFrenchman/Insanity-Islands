@@ -96,7 +96,7 @@ Er zijn alternatieve vormen om in een beer te veranderen.
 
 Om Farid in een mens terug te veranderen, moet hij met een sacrimes een deel van het vacht snijden van zijn buik. Dit doet 20 Damage maar je krijgt geen cooldown, dus het is misschien een beter alternatief dan het andere. 
 
-Claws of Fear and Bone
+Claws of Fear and Bone:
 Farid heeft Wolverine-achtige berenklauwen gemaakt van bot. Hij behoudt ze zowel in mensenvorm als in berenvorm. Hij kan zijn klauwen voor alles gebruiken: Aanvallen, snijden, etc.
 - Damage: 20 * 2
 - Durability: High

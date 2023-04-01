@@ -67,7 +67,8 @@ Slaapdarts-Receiver
 
 Onderweg kan Justine meerdere modules vinden die ze kan installeren.
 
-
+M.E.C.H.
+Justine is M.E.C.H. (Mechanised Energy Core in Heart)
 
 
 
