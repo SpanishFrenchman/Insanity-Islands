@@ -75,10 +75,13 @@ Justine heeft een normaal functionerende M.E.C.H. (Mechanised Energy Core in Hea
 Naast HP heb je nu ook W (Watt). Je begint met 500W
 
 W verlaagt door:
-	Schade (0,5 * Damage)
+	Schade. (0,5 * Damage)
 	Opladen van batterijen, accu's, etc.
-	Ioniserende Straling (-100W per Endurance punt verloren aan radioactiviteit)
-	Stamina-kostende activiteiten te doen zonder dat je überhaupt stamina hebt. (50W per )
+	Ioniserende Straling. (-100W per Endurance punt verloren aan radioactiviteit)
+	Stamina-kostende activiteiten te doen zonder dat je überhaupt stamina hebt. (50W per Staminapunt)
+
+W verhoogt door
+	
 
 
 
