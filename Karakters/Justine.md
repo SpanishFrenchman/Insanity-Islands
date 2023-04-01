@@ -57,6 +57,7 @@ Justine, voordat ze gedeporteerd werd, had ze een baan bij de Geheime Dienst. Hi
 
 Geluidsmaskering
 	Locatie: Torso
+	Minimum: 300W
 	Omschrijving: Als zij in Sneak modus is, dan zal ze geen geluid produceren.
 
 Slaapdarts-Receiver
