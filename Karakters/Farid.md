@@ -114,3 +114,4 @@ Voor iemand die alleen met dieren heeft geleefd voor 16 jaar lang, weet Farid ve
 
 Hint: Were-Bear is heel erg overkill voor kleine problemen. De nadelen zullen zwaarder wegen dan jouw voordelen als je niet oppast!
 
+Justine weet veel van geheime covert io

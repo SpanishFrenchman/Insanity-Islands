@@ -91,7 +91,11 @@ Wanneer Justine Damage krijgt en tot de 50W komt, raakt ze in Overcharge en dan 
 
 Alle vijanden zijn gestunned voor 2 beurten, en vijandig apparatuur zal niet meer functioneren
 
-Justine is gestunne
+Justine is gestunned voor 5 beurten, en al haar apparatuur zal niet meer functioneren. Dit geld niet voor modules.
+
+Als haar W tot 0 komt, dan sterft ze.
+
+
 
 
 

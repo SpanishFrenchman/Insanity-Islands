@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Justine.md",
+                "file": "Karakters/Farid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +125,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "80e4619b7f5d9af3",
+  "active": "1378b8509ecfd060",
   "lastOpenFiles": [
+    "Karakters/Justine.md",
     "Karakters/Isa.md",
     "Karakters/Fynne.md",
     "Karakters/Wester.md",
@@ -136,7 +136,6 @@
     "Karakters/Sebastian.md",
     "Karakters/Noëlle.md",
     "Karakters/Lotte.md",
-    "Karakters/Justine.md",
     "Karakters/Farid.md",
     "Karakters/Amir.md",
     "Karakters/Loredana.md",
