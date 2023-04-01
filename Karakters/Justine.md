@@ -85,7 +85,9 @@ W verhoogt door
 	Het afnemen van stroom van batterijen, accu's, etc.
 	Aangevallen te worden met elektrische wapens. (0,5 * Damage. Dit geld echter niet voor fusie-vuurwapens.)
 	Een hele dag geen schade lijden. (+50W)
-	Goed t
+	Goed te hebben gegeten, gedronken en geslapen binnen een dag. (+10W)
+
+
 
 
 
