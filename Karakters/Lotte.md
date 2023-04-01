@@ -6,5 +6,5 @@ Special Attack: Genderchanger
 
 "Die zal als een vrouw klinken voor de rest van zijn leven!"
 
-Trait: Als je minder dan 30% HP hebt, dan doe je 20% meer D
+Trait: Als je minder dan 30% HP hebt, dan doe je 20% meer Damage, maar jouw Intelligence en Perceptie gaan naar 1
 
