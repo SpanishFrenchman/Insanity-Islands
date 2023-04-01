@@ -83,7 +83,8 @@ W verlaagt door:
 W verhoogt door
 	Voor een hele tijdsperiode onder de 20 Stress te zijn. (+10W)
 	Het afnemen van stroom van batterijen, accu's, etc.
-	Aangevallen te worden met elektrische wapens. (0,5 * Damage. Dit geld echter niet voor )
+	Aangevallen te worden met elektrische wapens. (0,5 * Damage. Dit geld echter niet voor fusie-vuurwapens.)
+	
 
 
 
