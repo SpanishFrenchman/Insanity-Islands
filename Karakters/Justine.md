@@ -63,7 +63,8 @@ Geluidsmaskering
 Slaapdarts-Receiver
 	Locatie: Rechterarm
 	Minimum: 200W
-	Omschrijving: Je begint met 3 darts. Schiet een slaapdart naar jouw vijand om hem in te slapen. Meer darts maken kost 50W per 3 darts en het proces duurt een tijdsperiode
+	Omschrijving: Je begint met 3 darts. Schiet een slaapdart naar jouw vijand om hem in te slapen. Meer darts maken kost 50W per 3 darts en het proces duurt een tijdsperiode.
+
 
 
 
