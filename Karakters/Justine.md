@@ -62,6 +62,7 @@ Geluidsmaskering
 
 Slaapdarts-Receiver
 	Locatie: Rechterarm
+	
 	Omschrijving: Schiet een slaapdart naar jouw vijand.
 
 
