@@ -68,7 +68,7 @@ Slaapdarts-Receiver
 Onderweg kan Justine meerdere modules vinden die ze kan installeren.
 
 M.E.C.H.
-Justine heeft een normaal functionerende M.E.C.H. (Mechanised Energy Core in Heart). Die geeft haar lichaam elektriciteit, zodat ze meer geavanceerde taken kan doen.
+Justine heeft een normaal functionerende M.E.C.H. (Mechanised Energy Core in Heart) in tegenstelling tot anderen. Die geeft haar lichaam elektriciteit, zodat ze meer geavanceerde taken kan doen.
 
 Naast HP heb je nu ook W (Watt)
 
