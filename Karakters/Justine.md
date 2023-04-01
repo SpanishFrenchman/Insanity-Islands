@@ -95,7 +95,9 @@ Justine is gestunned voor 5 beurten, en al haar apparatuur zal niet meer functio
 
 Als haar W tot 0 komt, dan sterft ze.
 
+Justine weet veel van geheime covert ops. Daarvoor heeft ze meer dan 5 jaar getraind, maar overleven is iets compleet anders.
 
+HintL
 
 
 
