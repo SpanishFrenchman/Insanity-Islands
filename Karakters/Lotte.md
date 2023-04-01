@@ -6,3 +6,5 @@ Special Attack: Genderchanger
 
 "Die zal als een vrouw klinken voor de rest van zijn leven!"
 
+
+
