@@ -97,7 +97,7 @@ Als haar W tot 0 komt, dan sterft ze.
 
 Justine weet veel van geheime covert ops. Daarvoor heeft ze meer dan 5 jaar getraind, maar overleven is iets compleet anders.
 
-HintL
+Hint: Die Overcharge klinkt misschien heel goed, maar het is echt alleen maar voor noodgevallen. Probeer altijd een hoge W te hebben
 
 
 
