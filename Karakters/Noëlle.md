@@ -30,4 +30,7 @@ Special Perk: Anti-Bodies I:
 
 Starter Perk I
 	Lancer I
-	I: Je kan lichte dingen (Bijvoorbeeld werpmessen) vanaf Medium afstand werpe
+	I: Je kan lichte dingen (Bijvoorbeeld werpmessen) vanaf Medium afstand werpen
+
+"Ik zei toch dat je dat soort dingen kan skippen"
+
