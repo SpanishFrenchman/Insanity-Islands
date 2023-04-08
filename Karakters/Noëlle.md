@@ -53,5 +53,6 @@ L: 2
 Info:
 Mutagen-001
 Noëlle bevat een mutagenisch vergif in haar vanwege misbruik in ##### en verval. Het is zeer potent.
-	Alles en 
+
+
 
