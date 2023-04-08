@@ -61,5 +61,5 @@ Lotte heeft een honkbalknuppel bij haar, die ze al had sinds het begin der tijde
 - Damage: (50)
 - Extra's: Barbed Wires (+10 Damage en veroorzaakt ook Hemorrhague)
 
-Info: Lotte heeft heel veel trauma's van het verleden, maar nog steeds doet ze koste wat het kost alles om te 
+Info: Lotte heeft heel veel trauma's van het verleden, maar nog steeds doet ze koste wat het kost alles om te overleven, ookal is haar  plan van aanpak
 
