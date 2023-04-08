@@ -59,4 +59,7 @@ Lotte heeft een honkbalknuppel bij haar, die ze al had sinds het begin der tijde
 
 - Gewicht: 5
 - Damage: (50)
-- Extra'
+- Extra's: Barbed Wires (+10 Damage en veroorzaakt ook Hemorrhague)
+
+Info: Lotte ging door
+
