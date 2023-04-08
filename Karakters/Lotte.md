@@ -44,7 +44,7 @@ S: 2
 
 P: 4
 
-E: 
+E: 4
 
 C: 3
 
@@ -55,4 +55,6 @@ A: 2 (1+1)
 L: 2
 
 Info:
-Lotte heeft een honkbalknuppel 
+Lotte heeft een honkbalknuppel bij haar, die ze al had sinds het begin der tijden. Gestolen of niet, ze heeft er veel waarde aan gehecht.
+
+- 
