@@ -33,4 +33,5 @@ Special Perk: Spin-jit-zu I
 "Jongens hij ligt neer!!!"
 
 Starter Perk I
-	Gun Nut 
+	Gun Nut I
+	I: Je     
