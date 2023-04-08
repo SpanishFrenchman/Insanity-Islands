@@ -14,4 +14,6 @@ Voordelen:
 
 - Als ze meer dan 50 Stress heeft, dan kan zij haar eigen Adrenaline produceren.
 
-"Mijn konijn doet zo autistisch! Ik w"
+"Mijn konijn doet zo ADHD en ik word daar heel blij van! En gestresst"
+
+- Lotte verkrijgt minder snel 
