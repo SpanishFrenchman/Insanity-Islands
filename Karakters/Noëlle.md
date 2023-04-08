@@ -12,4 +12,6 @@ Trait: Zij kan zelf gedrogeerd voedsel eten zonder aan de negatieve consequentie
 
 Voordelen:
 
-Immuun voor Radio-activi
+Zij is immuun voor de gevolgen van Radio-activiteit.
+
+""
