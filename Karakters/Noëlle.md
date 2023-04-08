@@ -7,3 +7,9 @@ Special Attack: Viper's Fangs
 "Haha, sterf en val neer!"
 
 Trait: Zij kan zelf gedrogeerd voedsel eten zonder aan de negatieve consequenties, ten koste van 10 sanity.
+
+"Ik ben bijna perfect. Do not judge me."
+
+Voordelen:
+
+Immuun voor Radio-activi
