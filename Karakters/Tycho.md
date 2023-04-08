@@ -27,4 +27,5 @@ Nadelen:
 "Die beesten zijn fucking ranzig! Echt goed dat wij elk dier hebben laten uitsterven!"
 
 Special Perk: Spin-jit-zu I
-	
+	I: +5 damage met handen
+	+: Je kan ook een nieuwe vorm van attack doen (De Handzweep). Doet 0 Damage maar heeft 10 Procent kans om een mens te paralyseren
