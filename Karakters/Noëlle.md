@@ -23,4 +23,5 @@ Haar Trauma verlaagt ook haar Maximum HP (in procenten)
 "Dat.... wat net gebeurd was... deed heel veel pijn."
 
 Special Perk: Anti-Bodies I:
-	I: 
+	I: Zij heeft 25% natuurlijke resistentie tegen "Morbus Morte"
+	+: 
