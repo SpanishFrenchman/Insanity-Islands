@@ -12,4 +12,4 @@ Trait: Als je minder dan 30% HP hebt, dan doe je 20% meer Damage, maar jouw Inte
 
 Voordelen:
 
-- 
+- Als ze meer dan 50 Stress heeft, dan zij
