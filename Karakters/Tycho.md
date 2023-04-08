@@ -24,4 +24,7 @@ Nadelen:
 
 - Tycho verliest 10 Sanity telkens als hij door een insect gestoken/gebeten word.
 
-"Die bee"
+"Die beesten zijn fucking ranzig! Echt goed dat wij elk dier hebben laten uitsterven!"
+
+Special Perk: Spin-jit-zu I
+	
