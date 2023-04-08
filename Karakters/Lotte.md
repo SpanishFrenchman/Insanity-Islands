@@ -24,4 +24,6 @@ Nadelen:
 
 - Lotte verliest sneller Sanity bij allerlei rijtuigen (paarden, boten, etc.)
 
-"Ik vertrouwde mijn moeder niet toen hij ging rijden, laat staa"
+"Ik vertrouwde mijn moeder niet toen zij ging rijden, laat staan dat ik jullie zou vertrouwen."
+
+
