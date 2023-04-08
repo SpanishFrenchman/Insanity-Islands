@@ -64,9 +64,8 @@ Als zij een vorm van vergif inneemt, dan reageert het mutageen daar sterk op, en
 
 Als Noëlle te vaak in contact komt met water, of als ze water drinkt, dan zal het mutageen veels te sterk reageren en dan zal ze 100 Damage krijgen. Ze hoeft geen water te drinken.
 
-(synthetisch bloed
-)
-
+Ook kan ze een genezingsmiddel tegen haar gif maken, maar 
+Handschoenen kunnen ervoor zorgen dat de dingen die ze aanraakt niet vergiftigd worden.
 
 
 
