@@ -14,4 +14,8 @@ Voordelen:
 
 Zij is immuun voor de gevolgen van Radio-activiteit.
 
-""
+"Ik vind het gewoon raar dat mensen zogenaamd muteren door radioactiviteit. Het is letterlijk sterker zonlicht."
+
+Nadelen: 
+
+
