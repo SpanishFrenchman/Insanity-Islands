@@ -28,4 +28,6 @@ Nadelen:
 
 Special Perk: Basher
 	I: +10 Damage met Bashing weapons
-	+ 
+	+ Het kan ook Hemorrhague veroorzaken
+
+"O"
