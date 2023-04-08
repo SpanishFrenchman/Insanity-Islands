@@ -15,3 +15,9 @@ Voordelen:
 - Hij doet + 20 Damage met Gun Bashing.
 
 "Kachow! Je bent gebroken!"
+
+Nadelen:
+
+- Tycho is nogal onempatisch, dus kan hij slechter andere mensen behandelen.
+
+"Je kan mij toch niet de schuld geven? "
