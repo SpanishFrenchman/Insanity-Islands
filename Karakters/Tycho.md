@@ -12,4 +12,6 @@ Trait: Tycho doet +10% meer Damage met vuurwapens, maar ze zullen 10% sneller ka
 
 Voordelen:
 
-- 
+- Hij doet + 20 Damage met Gun Bashing.
+
+"Kachow! Je bent gebroken!"
