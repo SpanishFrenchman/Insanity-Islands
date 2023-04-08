@@ -26,10 +26,12 @@ Nadelen:
 
 "Ik vertrouwde mijn moeder niet toen zij ging rijden, laat staan dat ik jullie zou vertrouwen."
 
-Special Perk: Basher
+Special Perk: Basher I
 	I: +10 Damage met Bashing weapons
 	+ Het kan ook Hemorrhague veroorzaken
 
-""
+"Ik bash je zoals ik jouw moeder bash!"
 
-Starter Perk I
+Starter Perk I: 
+	Slasher I
+	
