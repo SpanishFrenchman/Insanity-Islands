@@ -38,14 +38,18 @@ SPECIAL
 
 S: 4
 
-P: 2 ()
+P: 2 (1+1)
 
-E:
+E: 2
 
-C:
+C: 3
 
-I:
+I: 4
 
-A:
+A: 3 
 
-L:
+L: 2
+
+Info:
+Mutagen-001
+
