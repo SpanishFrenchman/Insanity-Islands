@@ -28,3 +28,5 @@ Special Perk: Anti-Bodies I:
 
 "Uhhh, volgensmij wil je niet in haar buurt komen"
 
+Starter Perk I
+	Lance
