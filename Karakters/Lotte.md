@@ -11,3 +11,5 @@ Trait: Als je minder dan 30% HP hebt, dan doe je 20% meer Damage, maar jouw Inte
 "Ik dood iedereen die zegt dat je niet kan delen door 0!"
 
 Voordelen:
+
+- 

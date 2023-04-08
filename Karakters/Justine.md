@@ -13,13 +13,13 @@ Trait: Justine is immuun voor allerlei elektrische schokken (Schokbatons, donder
 
 Voordelen:
 
-Justine kan de lading van elke accu's aanvoelen! (Dit geldt ook voor fusie magazijnen.)
+- Justine kan de lading van elke accu's aanvoelen! (Dit geldt ook voor fusie magazijnen.)
 
 "Ja hoor! Deze heeft nog 75 Watt. Dit ding kan nog 7 schoten aan en die accu moet nog laden, hoezo?"
 
 Nadelen:
 
-Er is een 20% kans dat als Justine aangevallen word, dat ze haarzelf schokt, waardoor ze een stun krijgt voor een beurt.
+- Er is een 20% kans dat als Justine aangevallen word, dat ze haarzelf schokt, waardoor ze een stun krijgt voor een beurt.
 
 "Ik stel me niet aan! Dat deed veel pijn, honest to god!"
 
