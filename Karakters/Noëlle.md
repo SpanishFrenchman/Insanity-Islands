@@ -57,5 +57,8 @@ Noëlle bevat een mutagenisch vergif in haar vanwege misbruik in ##### en verval
 Alles en iedereen die ze aanraakt zal vergiftigd worden. Bij objecten zullen ze voor korte tijd vergiftigd zijn. Bij wezens werkt het gif echter op een degressieve vorm.
 (Begin) I: Af en toe hoesten, niks bijzonders
 (1 Dag) II: jouw special verlaagt met -1
-(2 Dagen) III: 
+(2 Dagen) III: Je zal nog harder hoesten, soms zelfs bloed ophoesten (20 Damage) en je hebt maar 1 Stamina Punt
+(3 Dagen) IV: Je sterft
+
+
 
