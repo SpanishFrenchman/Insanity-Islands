@@ -34,3 +34,18 @@ Starter Perk I
 
 "Ik zei toch dat je dat soort dingen kan skippen"
 
+SPECIAL
+
+S: 4
+
+P: 2 ()
+
+E:
+
+C:
+
+I:
+
+A:
+
+L:
