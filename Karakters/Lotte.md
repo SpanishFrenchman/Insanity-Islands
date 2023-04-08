@@ -58,6 +58,7 @@ Info:
 Lotte heeft een honkbalknuppel bij haar, die ze al had sinds het begin der tijden. Gestolen of niet, ze heeft er veel waarde aan gehecht.
 
 - Gewicht: 5
+- Inventory: 2
 - Damage: (50)
 - Extra's: Barbed Wires (+10 Damage en veroorzaakt ook Hemorrhague)
 
