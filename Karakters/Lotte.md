@@ -16,4 +16,5 @@ Voordelen:
 
 "Mijn konijn doet zo ADHD en ik word daar heel blij van! En gestresst"
 
-- Lotte verkrijgt minder snel trauma
+- Lotte verkrijgt minder snel trauma. (0,5)
+- 
