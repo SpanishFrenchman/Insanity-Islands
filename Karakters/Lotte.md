@@ -61,5 +61,7 @@ Lotte heeft een honkbalknuppel bij haar, die ze al had sinds het begin der tijde
 - Damage: (50)
 - Extra's: Barbed Wires (+10 Damage en veroorzaakt ook Hemorrhague)
 
-Info: Lotte heeft heel veel trauma's van het verleden, maar nog steeds doet ze koste wat het kost alles om te overleven, ookal is haar  plan van aanpak
+Info: Lotte heeft heel veel trauma's van het verleden, maar nog steeds doet ze koste wat het kost alles om te overleven, ookal is haar  plan van aanpak een beetje..... agressief.
+
+Hint: Lotte heeft alvast een goeie early-game dankzij haar knuppel, adrenaline en perks. Zij is vooral goed met het aanvallen van andere mensen.
 
