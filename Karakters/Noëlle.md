@@ -1,3 +1,4 @@
 Ras: Phantom
 
-Specia
+Special Attack: Viper's Fangs
+	
