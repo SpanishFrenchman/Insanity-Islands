@@ -66,7 +66,9 @@ Als Noëlle te vaak in contact komt met water, of als ze water drinkt, dan zal h
 
 Ook kan ze een genezingsmiddel tegen haar gif maken, maar ze zal haar gif voor 2 dagen verliezen. Ze zal echter nog steeds schade van water oplopen
 
-Handschoenen kunnen ervoor zorgen dat de dingen die ze aanraakt niet vergiftigd worden, maar ze zullen ook desintegreren
+Handschoenen kunnen ervoor zorgen dat de dingen die ze aanraakt niet vergiftigd worden, maar ze zullen desintegreren tegen de meer potente variant.
+
+
 
 
 
