@@ -55,5 +55,7 @@ Mutagen-001
 Noëlle bevat een mutagenisch vergif in haar vanwege misbruik in ##### en verval. Het is zeer potent.
 
 Alles en iedereen die ze aanraakt zal vergiftigd worden. Bij objecten zullen ze voor korte tijd vergiftigd zijn. Bij wezens werkt het gif echter op een degressieve vorm.
-I ()
+(Begin) I: Af en toe hoesten, niks bijzonders
+(1 Dag) II: jouw special verlaagt met -1
+(2 Dagen) III: 
 
