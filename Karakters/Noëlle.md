@@ -6,4 +6,4 @@ Special Attack: Viper's Fangs
 
 "Haha, sterf en val neer!"
 
-Trait: 
+Trait: Zij kan zelf gedrogeerd voedsel eten, 
