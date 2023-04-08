@@ -40,16 +40,19 @@ Starter Perk I:
 
 SPECIAL:
 
-S
+S: 2
 
-P
+P: 4
 
-E
+E: 
 
-C
+C: 3
 
-I
+I: 3
 
-A
+A: 2 (1+1)
 
-L
+L: 2
+
+Info:
+Lotte heeft een honkbalknuppel
