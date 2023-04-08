@@ -20,4 +20,8 @@ Nadelen:
 
 - Tycho is nogal onempatisch, dus kan hij slechter andere mensen behandelen.
 
-"Je kan mij toch niet de schuld geven? "
+"Je kan mij toch niet de schuld geven? Zij is helemaal bebloed en bij hem steekt er een bot uit! Eww!"
+
+- Tycho verliest 10 Sanity telkens als hij door een insect gestoken/gebeten word.
+
+"Die bee"
