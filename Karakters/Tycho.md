@@ -28,4 +28,9 @@ Nadelen:
 
 Special Perk: Spin-jit-zu I
 	I: +5 damage met handen
-	+: Je kan ook een nieuwe vorm van attack doen (De Handzweep). Doet 0 Damage maar heeft 10 Procent kans om een mens te paralyseren
+	+: Je kan ook een nieuwe vorm van attack doen (De Handzweep). Doet 0 Damage maar heeft 10% kans om een mens te paralyseren.
+
+"Jongens hij ligt neer!!!"
+
+Starter Perk I
+	Gun Nut 
