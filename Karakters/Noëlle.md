@@ -68,7 +68,7 @@ Ook kan ze een genezingsmiddel tegen haar gif maken, maar ze zal haar gif voor 2
 
 Handschoenen kunnen ervoor zorgen dat de dingen die ze aanraakt niet vergiftigd worden, maar ze zullen desintegreren tegen de meer potente variant.
 
-
+Noëlle is het zat om al die tijd vast te zitten op het eiland. Nu dat er meerdere mensen zijn die haar dode vrienden kunnen verplaatsen, heeft ze nog een kans gekregen
 
 
 
