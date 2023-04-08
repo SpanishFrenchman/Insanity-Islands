@@ -34,4 +34,6 @@ Special Perk: Basher I
 
 Starter Perk I: 
 	Slasher I
-	
+	I: +10 Damage met Slashing Weapons
+
+"jd"
