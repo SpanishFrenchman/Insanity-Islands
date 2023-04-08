@@ -34,4 +34,4 @@ Special Perk: Spin-jit-zu I
 
 Starter Perk I
 	Gun Nut I
-	I: Je          c
+	I: Je  
