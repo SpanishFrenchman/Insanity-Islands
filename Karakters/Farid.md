@@ -27,6 +27,7 @@ Nadelen:
 	
 	 Als hij vlees consumeert, dan raakt hij tijdelijk in een "mourning" mode, wat zijn gave met dieren verhindert. Als hij tijdens "mourning" nog meer vlees eet, verliest hij 5 Sanity
 	 Bij kleding verliest hij niet Sanity, maar hij zal wel in "mourning" blijven totdat hij die kleding niet meer draagt.
+	 De dood van dieren houdt hem ook in Mourning Mode
 
 "Moord is moord. Als jij het leven van een mens waardeert, dan moet je mij het leven van een dier laten waarderen."
 
