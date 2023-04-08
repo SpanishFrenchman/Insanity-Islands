@@ -22,4 +22,6 @@ Voordelen:
 
 Nadelen:
 
-- Lotte krijgt 
+- Lotte verliest sneller Sanity bij allerlei rijtuigen (paarden, boten, etc.)
+
+"Ik vertrouwde mijn moeder niet toen hij ging rijden, laat staa"
