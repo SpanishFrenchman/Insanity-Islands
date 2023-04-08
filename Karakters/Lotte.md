@@ -14,4 +14,4 @@ Voordelen:
 
 - Als ze meer dan 50 Stress heeft, dan kan zij haar eigen Adrenaline produceren.
 
-""
+"Mijn konijn doet zo autistisch! Ik w"
