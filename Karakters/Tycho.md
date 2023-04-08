@@ -6,4 +6,10 @@ Special Attack: Gunslinger
 
 "Snelste vingers van het hele politiedepartement. Pow!"
 
-Trait: Tycho doet +10% meer Damage met vuurwapens, maar ze zullen 10% sneller kapotgaa 
+Trait: Tycho doet +10% meer Damage met vuurwapens, maar ze zullen 10% sneller kapotgaan.
+
+"Ze noemen me ook wel Built to Destroy, niet dat dat een slecht ding is ofzo."
+
+Voordelen:
+
+- 

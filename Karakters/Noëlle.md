@@ -12,13 +12,13 @@ Trait: Zij kan zelf gedrogeerd voedsel eten zonder aan de negatieve consequentie
 
 Voordelen:
 
-Zij is immuun voor de gevolgen van Radio-activiteit.
+- Zij is immuun voor de gevolgen van Radio-activiteit.
 
 "Ik vind het gewoon raar dat mensen zogenaamd muteren door radioactiviteit. Het is letterlijk sterker zonlicht."
 
 Nadelen: 
 
-Haar Trauma verlaagt ook haar Maximum HP (in procenten)
+- Haar Trauma verlaagt ook haar Maximum HP (in procenten)
 
 "Dat.... wat net gebeurd was... deed heel veel pijn."
 
