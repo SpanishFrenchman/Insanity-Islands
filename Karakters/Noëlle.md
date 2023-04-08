@@ -22,4 +22,4 @@ Haar Trauma verlaagt ook haar Maximum HP (in procenten)
 
 "Dat.... wat net gebeurd was... deed heel veel pijn."
 
-Special Perk: Anti-Boddidjdjdjd
+Special Perk: Anti-Bodies 
