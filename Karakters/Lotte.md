@@ -55,4 +55,4 @@ A: 2 (1+1)
 L: 2
 
 Info:
-Lotte heeft een honkbalknuppel
+Lotte heeft een honkbalknuppel 
