@@ -37,3 +37,19 @@ Starter Perk I:
 	I: +10 Damage met Slashing Weapons
 
 "Heb je ooit beton gesneden? Nee?? Ik ook niet."
+
+SPECIAL:
+
+S
+
+P
+
+E
+
+C
+
+I
+
+A
+
+L
