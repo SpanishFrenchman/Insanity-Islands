@@ -26,4 +26,5 @@ Special Perk: Anti-Bodies I:
 	I: Zij heeft 25% natuurlijke resistentie tegen "Morbus Mortem"
 	+: Zij kan zien wie wel en wie niet ziek is met die ziekte
 
-"Uhhh, volgensmij wil je niet in haar buurt k"
+"Uhhh, volgensmij wil je niet in haar buurt komen"
+
