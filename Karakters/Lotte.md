@@ -26,4 +26,6 @@ Nadelen:
 
 "Ik vertrouwde mijn moeder niet toen zij ging rijden, laat staan dat ik jullie zou vertrouwen."
 
-Special Perk: Basherr
+Special Perk: Basher
+	I: +10 Damage met Bashing weapons
+	
