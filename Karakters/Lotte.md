@@ -16,8 +16,10 @@ Voordelen:
 
 "Mijn konijn doet zo ADHD en ik word daar heel blij van! En gestresst"
 
-- Lotte verkrijgt minder snel trauma. (0,5)
+- Lotte verkrijgt minder snel trauma. (0,5x)
 
 "Bro, Storm sprong op m'n toetsenbord en dan denk je dat ik snel getraumatiseerd word?"
 
+Nadelen:
 
+- Lotte krijgt 
