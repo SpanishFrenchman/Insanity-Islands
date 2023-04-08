@@ -62,7 +62,7 @@ Alles en iedereen die ze aanraakt zal vergiftigd worden. Bij objecten zullen ze 
 
 Als zij een vorm van vergif inneemt, dan reageert het mutageen daar sterk op, en alles wat ze aanraakt, zal binnen seconden uitsterven. Objecten die ze aanraakt, zullen echter desintegreren. Dit zal voor 1 dag uithouden. Dit effect werkt echter niet op bepaalde metalen....
 
-
+Als Noëlle te vaak in contact komt met water, of als ze water drinkt, dan zal het mutageen veels te sterk reageren
 
 
 
