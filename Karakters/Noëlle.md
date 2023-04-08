@@ -60,7 +60,7 @@ Alles en iedereen die ze aanraakt zal vergiftigd worden. Bij objecten zullen ze 
 	(2 Dagen) III: Je zal nog harder hoesten, soms zelfs bloed ophoesten (20 Damage) en je hebt maar 1 Stamina Punt.
 	(3 Dagen) IV: Je sterft.
 
-Als zij een vorm van vergif inneemt, dan reageert het mutageen daar sterk op, en alles wat ze aanraakt, zal binnen seconden uitsterven. Objecten die ze aanraakt, zullen echter desintegreren.
+Als zij een vorm van vergif inneemt, dan reageert het mutageen daar sterk op, en alles wat ze aanraakt, zal binnen seconden uitsterven. Objecten die ze aanraakt, zullen echter desintegreren. Dit zal v
 
 
 
