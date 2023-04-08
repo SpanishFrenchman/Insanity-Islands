@@ -30,4 +30,4 @@ Special Perk: Anti-Bodies I:
 
 Starter Perk I
 	Lancer I
-	I: Je kan lichte dingen (Bijvoorbeeld werpmessen) vanaf e
+	I: Je kan lichte dingen (Bijvoorbeeld werpmessen) vanaf Medium afstand werpe
