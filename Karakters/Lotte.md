@@ -36,4 +36,4 @@ Starter Perk I:
 	Slasher I
 	I: +10 Damage met Slashing Weapons
 
-"jd"
+"Amir wilt kinderen met het broertje van Farid"
