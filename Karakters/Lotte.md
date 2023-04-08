@@ -28,4 +28,4 @@ Nadelen:
 
 Special Perk: Basher
 	I: +10 Damage met Bashing weapons
-	
+	+ 
