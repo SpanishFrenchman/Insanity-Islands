@@ -18,4 +18,6 @@ Voordelen:
 
 - Lotte verkrijgt minder snel trauma. (0,5)
 
-""
+"Bro, Storm sprong op m'n toetsenbord en dan denk je dat ik snel getraumatiseerd word?"
+
+

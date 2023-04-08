@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Lotte.md",
+                "file": "Karakters/Isa.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,17 +126,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1378b8509ecfd060",
+  "active": "80e4619b7f5d9af3",
   "lastOpenFiles": [
+    "Karakters/Isa.md",
+    "Karakters/Lotte.md",
     "Karakters/Wester.md",
     "Karakters/Loredana.md",
     "Karakters/Tycho.md",
     "Karakters/Sven.md",
     "Karakters/Sebastian.md",
     "Karakters/Noëlle.md",
-    "Karakters/Lotte.md",
     "Karakters/Justine.md",
-    "Karakters/Isa.md",
     "Karakters/Farid.md",
     "Karakters/Amir.md",
     "Karakters/Fynne.md",
