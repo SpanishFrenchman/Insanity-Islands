@@ -18,4 +18,6 @@ Zij is immuun voor de gevolgen van Radio-activiteit.
 
 Nadelen: 
 
+Haar Trauma verlaagt ook haar Maximum HP (in procenten)
 
+"Dat.... wat net gebeurd was"
