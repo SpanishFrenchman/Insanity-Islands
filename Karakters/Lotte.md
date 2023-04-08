@@ -26,4 +26,4 @@ Nadelen:
 
 "Ik vertrouwde mijn moeder niet toen zij ging rijden, laat staan dat ik jullie zou vertrouwen."
 
-
+Special Perk:
