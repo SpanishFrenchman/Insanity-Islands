@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Noëlle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdd7ab6431cbe0e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karakters/Wester.md",
+                "file": "Karakters/Tycho.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Wester.md",
+                "file": "Karakters/Tycho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +113,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bdd7ab6431cbe0e8",
+  "active": "32f3fc5ad83ffb62",
   "lastOpenFiles": [
-    "Karakters/Sven.md",
     "Karakters/Tycho.md",
+    "Karakters/Tycho.md",
+    "Karakters/Wester.md",
+    "Karakters/Sven.md",
     "Karakters/Loredana.md",
     "Karakters/Sebastian.md",
-    "Karakters/Wester.md",
     "Karakters/Noëlle.md",
     "Karakters/Lotte.md",
     "Karakters/Justine.md",
@@ -156,7 +144,6 @@
     "II stuff/Perks.md",
     "II stuff/Perk info.md",
     "dsdsd.md",
-    "Iron fists.md",
-    "aaaaaa.md"
+    "Iron fists.md"
   ]
 }
