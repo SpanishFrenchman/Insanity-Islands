@@ -62,8 +62,9 @@ Stats:
 
 Gewicht: 6 KG
 Inventory: 0
-Reload: (indetermined)
-
+Fire Rate: 40 kogels
+Range: Short - Medium
+Damage: (indetermined)
 
 Deze Vulkan accepteert elke soort ammo van conventionele vuurwapens. Ook kunnen deze onderdelen nooit breken.
 
