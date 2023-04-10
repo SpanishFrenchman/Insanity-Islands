@@ -80,6 +80,6 @@ De Vulkan kan niet meer gebruikt worden als zijn rechterarm gemutileerd is.
 
 Echt zielig hoe iemand die genoeg ambitie had om in het leger te zijn, toch was beland in het politiekorps. Was het maar nooit zo.
 
-Hint: Er is m
+Hint: Er is maar 1 magazijn voor de Vulkan die Tycho bij zich heeft. Hou dat ding geladen.
 
 
