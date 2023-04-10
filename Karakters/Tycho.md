@@ -62,6 +62,14 @@ Deze Vulkan accepteert elke soort ammo van conventionele vuurwapens. Ook kunnen 
 
 De Vulkan is wel heel erg gevoelig voor hitte, en kan voor meerdere dagen niet functioneren als die oververhit raakt.
 	Nadat Tycho heeft geschoten, kan hij kiezen om nog een keer te schieten.
-	Elke keer dat hij nog eens schiet, verhoogt hij de kans dat de Vulkan over
+	Elke keer dat hij nog eens schiet, verhoogt hij de kans dat de Vulkan oververhit raakt.
+	Deze kans word ook bepaald door zijn Luck.
+	Als hij oververhit raakt, dan werkt de Vulkan voor 2 dagen niet meer.
+
+Je kan niet met de Vulkan bashen.
+
+De Vulkan kan niet meer gebruik
+
+
 
 
