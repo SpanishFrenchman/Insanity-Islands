@@ -78,6 +78,6 @@ Je kan niet met de Vulkan bashen.
 
 De Vulkan kan niet meer gebruikt worden als zijn rechterarm gemutileerd is.
 
-
+Echt zielig hoe iemand die genoeg ambitie had om in het leger te zijn, toch was beland
 
 
