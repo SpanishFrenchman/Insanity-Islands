@@ -87,11 +87,9 @@ W verhoogt door
 	Een hele dag geen schade lijden. (+50W)
 	Goed te hebben gegeten, gedronken en geslapen binnen een dag. (+10W)
 
-Wanneer Justine Damage krijgt en tot de 50W komt, raakt ze in Overcharge en dan gaa ze biem.
-
-Alle vijanden zijn gestunned voor 2 beurten, en vijandig apparatuur zal niet meer functioneren
-
-Justine is gestunned voor 5 beurten, en al haar apparatuur zal niet meer functioneren. Dit geld niet voor modules.
+Wanneer Justine Damage krijgt en tot de 50W komt, raakt ze in Overcharge en dan gaat ze biem.
+	Alle vijanden zijn gestunned voor 2 beurten, en vijandig apparatuur zal niet meer functioneren.
+	Justine is gestunned voor 5 beurten, en al haar apparatuur zal niet meer functioneren. Dit geld niet voor modules.
 
 Als haar W tot 0 komt, dan sterft ze.
 
