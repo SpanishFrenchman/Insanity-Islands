@@ -60,6 +60,8 @@ Omdat Tycho had gekozen om een experimentele Vulkan aan zijn arm te binden, begi
 
 Deze Vulkan accepteert elke soort ammo van conventionele vuurwapens. Ook kunnen deze onderdelen nooit breken.
 
-De Vulkan is wel heel erg gevoelig voor hitte, en kan voo
+De Vulkan is wel heel erg gevoelig voor hitte, en kan voor meerdere dagen niet functioneren als die oververhit raakt.
+	Nadat Tycho heeft geschoten, kan hij kiezen om nog een keer te schieten.
+	Elke keer dat hij nog eens schiet, verhoogt hij de kans dat de Vulkan over
 
 
