@@ -36,6 +36,21 @@ Starter Perk I
 	Gun Nut I (Weet wel dat deze perk vanwege balancing en constante nieuwe updates qua gunplay altijd subject to change is)
 	I: Je kan Normal Quality ammo maken
 
-"9mm, "
+"9mm, 5,56mm en .50.... Ik hou van metrische systeem."
 
+SPECIAL:
+
+S:
+
+P:
+
+E:
+
+C:
+
+I:
+
+A:
+
+L:
 
