@@ -58,6 +58,8 @@ Info:
 Experimental Vulkan
 Omdat Tycho had gekozen om een experimentele Vulkan aan zijn arm te binden, begint Tycho met een experimentele Vulkan en een magazijn die speciaal is voor de experimentele Vulkan. Hij is echter wel leeg.
 
-Deze Vulkan accepteert elke soort ammo van conventionele vuurwapens. O
+Deze Vulkan accepteert elke soort ammo van conventionele vuurwapens. Ook kunnen deze onderdelen nooit breken.
+
+De Vulkan is wel heel erg gevoelig voor hitte, en kan voo
 
 
