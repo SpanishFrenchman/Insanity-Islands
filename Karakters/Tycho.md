@@ -33,7 +33,9 @@ Special Perk: Spin-jit-zu I
 "Jongens hij ligt neer!!!"
 
 Starter Perk I
-	Gun Nut I
+	Gun Nut I (Weet wel dat deze perk vanwege balancing en constante nieuwe updates qua gunplay altijd subject to change is)
 	I: Je kan Normal Quality ammo maken
+
+"9mm, "
 
 
