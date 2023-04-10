@@ -60,7 +60,10 @@ Omdat Tycho had gekozen om een experimentele Vulkan aan zijn arm te binden, begi
 
 Stats:
 
-Gewicht: 
+Gewicht: 6 KG
+Inventory: 0
+Reload: (indetermined)
+
 
 Deze Vulkan accepteert elke soort ammo van conventionele vuurwapens. Ook kunnen deze onderdelen nooit breken.
 
