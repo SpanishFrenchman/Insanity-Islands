@@ -68,7 +68,7 @@ De Vulkan is wel heel erg gevoelig voor hitte, en kan voor meerdere dagen niet f
 
 Je kan niet met de Vulkan bashen.
 
-De Vulkan kan niet meer gebruik
+De Vulkan kan niet meer gebruikt worden als 
 
 
 
