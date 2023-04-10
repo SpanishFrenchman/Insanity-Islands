@@ -58,6 +58,10 @@ Info:
 Experimental Vulkan
 Omdat Tycho had gekozen om een experimentele Vulkan aan zijn arm te binden, begint Tycho met een experimentele Vulkan en een magazijn die speciaal is voor de experimentele Vulkan. Hij is echter wel leeg.
 
+Stats:
+
+Gewicht: 
+
 Deze Vulkan accepteert elke soort ammo van conventionele vuurwapens. Ook kunnen deze onderdelen nooit breken.
 
 De Vulkan is wel heel erg gevoelig voor hitte, en kan voor meerdere dagen niet functioneren als die oververhit raakt.
@@ -68,7 +72,7 @@ De Vulkan is wel heel erg gevoelig voor hitte, en kan voor meerdere dagen niet f
 
 Je kan niet met de Vulkan bashen.
 
-De Vulkan kan niet meer gebruikt worden als 
+De Vulkan kan niet meer gebruikt worden als zijn rechterarm gemutileerd is.
 
 
 
