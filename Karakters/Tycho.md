@@ -56,5 +56,5 @@ L: 3
 
 Info:
 Experimental Vulkan
-Omdat Tycho had gekozen om een experimentele Vulkan aan zijn arm te binden, begint Tycho met een experimentele Vulkan
+Omdat Tycho had gekozen om een experimentele Vulkan aan zijn arm te binden, begint Tycho met een experimentele Vulkan.
 
