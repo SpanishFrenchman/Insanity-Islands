@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Loredana.md",
+                "file": "Karakters/Sebastian.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Loredana.md",
+                "file": "Karakters/Sebastian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,12 +127,12 @@
   },
   "active": "fb5d722ddd3926e4",
   "lastOpenFiles": [
-    "Karakters/Justine.md",
-    "Karakters/Loredana.md",
     "Karakters/Sven.md",
+    "Karakters/Sebastian.md",
+    "Karakters/Loredana.md",
+    "Karakters/Justine.md",
     "Karakters/Tycho.md",
     "Karakters/Wester.md",
-    "Karakters/Sebastian.md",
     "Karakters/Noëlle.md",
     "Karakters/Lotte.md",
     "Karakters/Isa.md",

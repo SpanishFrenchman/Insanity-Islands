@@ -1,3 +1,5 @@
 Ras: Mens
 
-Special Attack: 
+Special Attack: Bullseye
+	Stamina Cost: 2
+	
