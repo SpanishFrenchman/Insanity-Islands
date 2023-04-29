@@ -1,1 +1,3 @@
-gay
+Ras: Mens
+
+Special Attack: 
