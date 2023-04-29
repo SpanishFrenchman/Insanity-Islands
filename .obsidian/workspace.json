@@ -11,11 +11,24 @@
             "id": "fb5d722ddd3926e4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karakters/Loredana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57bf99d29a72cf93",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,15 +121,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32f3fc5ad83ffb62",
+  "active": "57bf99d29a72cf93",
   "lastOpenFiles": [
+    "Karakters/Loredana.md",
+    "Karakters/Sven.md",
     "Karakters/Tycho.md",
     "Karakters/Wester.md",
-    "Karakters/Sven.md",
     "Karakters/Sebastian.md",
     "Karakters/Noëlle.md",
     "Karakters/Lotte.md",
-    "Karakters/Loredana.md",
     "Karakters/Justine.md",
     "Karakters/Isa.md",
     "Karakters/Fynne.md",
