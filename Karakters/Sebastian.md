@@ -1,4 +1,5 @@
 Ras: Mens
 
-Special Attack: False Note
-	Sa
+Special Attack: Flirty Lyrics
+	Stamina Cost: 2
+	Description: 
