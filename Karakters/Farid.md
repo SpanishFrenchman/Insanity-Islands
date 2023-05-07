@@ -66,11 +66,7 @@ MANA: 20
 
 Spreuken:
 
-Samonai: Serpentum, 5 mana
-	Roep een slang op.
 
-Samonai: Corvus, 5 mana
-	Roep een kraai op.
  
 Info:
 Were-Bear

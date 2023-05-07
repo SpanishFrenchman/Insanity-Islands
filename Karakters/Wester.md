@@ -41,11 +41,29 @@ Starter Perk I:
 
 SPECIAL:
 
-S
+S: 2
 
+P: 2
 
+E: 4 (3 + 1)
 
+C: 2
 
+I: 5
+
+A: 1
+
+L: 4
+
+MANA: 20
+
+Samonai: Serpentum, 5 mana
+	Roep een slang op.
+
+Samonai: Corvus, 5 mana
+	Roep een kraai op.
+
+Info:
 
 
 
