@@ -10,7 +10,7 @@ Special Attack: Hunter's Claws
 
 "Ruik je ook het bloed?"
 
-Trait:
+Trait: Zijn Unarmed Attacks veroorzaken ook het "Bleeding" Status effect, maar z
 
 
 
