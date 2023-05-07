@@ -24,9 +24,12 @@ Nadelen
 
 - Wester heeft een strict dieet van vlees. Hij zal altijd weigeren om groenten te eten.
 
-"Kom op! Mijn tanden zijn zeker niet gemaakt om groenten te kauwen. Dan bre"
+"Kom op! Mijn tanden zijn zeker niet gemaakt om groenten te kauwen. Dan breken ze!"
 
-
+Special Perk: Animal Battle Cry II
+	I: Roep willekeurige dieren op tijdens combat.
+	II: De oproepen zullen minder "riskant" zijn.
+	+ Je mag een dier naar keuze oproepen. Wel zal dat stamina kosten, afhankelijk van welk dier het is.
 
 
 
