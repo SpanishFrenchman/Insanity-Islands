@@ -73,7 +73,9 @@ Wester kan geen onderscheid tussen kleuren maken.
 
 Hoewel hij kleurenblind is, kan hij wel infrarood zien.
 - Alle warmbloedige wezens kan worden gezien door Wester, zelfs als ze achter sommige obstakels staan.
-- 
+- Hij kan zwakke plekken vinden bij warmbloedige wezens.
+
+Bij de consumptie van vers, rauw vlees, zal het infrarood effect versterkerd worden.
 
 
 
