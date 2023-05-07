@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Farid.md",
+                "file": "Karakters/Wester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,10 +134,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "57bf99d29a72cf93",
+  "active": "e452a40f68e48d5c",
   "lastOpenFiles": [
-    "Karakters/Wester.md",
     "Karakters/Farid.md",
+    "Karakters/Wester.md",
     "Karakters/Noëlle.md",
     "Karakters/Fynne.md",
     "Karakters/Justine.md",

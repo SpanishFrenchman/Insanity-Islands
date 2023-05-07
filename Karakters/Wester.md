@@ -65,6 +65,8 @@ Samonai: Corvus, 5 mana
 
 Info:
 Hunter
+Wester is kleurenblind geboren, maar hij heeft wel een speciale gave met zijn ogen...
+	Wester kan geen onderscheid maken van kl
 
 
 
