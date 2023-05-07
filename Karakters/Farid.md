@@ -35,7 +35,7 @@ Nadelen:
 
 "Animalia, pugna pro diis!!!"
 
-
+-
 
 "Je moet begrijpen, jonge sterveling, dat het lang duurt om iets in Kraai te zeggen. En we zeggen nooit iets, tenzij het de moeite waard is om er lang over te doen."
 

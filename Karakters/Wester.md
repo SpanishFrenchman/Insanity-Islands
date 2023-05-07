@@ -32,12 +32,13 @@ Special Perk: Night Animal
 
 "Kijk! Daar zijn ze!"
 
-Starter Perk I
-
 Starter Perk I:
 	Animal Whisperer II
 	I: Je kan dieren verstaan.
 	II: Je kan met dieren praten.
+
+"Haha! Das leuk! Zijn mensen echt lekker?"
+
 
 
 
