@@ -64,6 +64,7 @@ Samonai: Corvus, 5 mana
 	Roep een kraai op.
 
 Info:
+Hunter
 
 
 
