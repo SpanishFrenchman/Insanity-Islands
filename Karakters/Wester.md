@@ -71,7 +71,7 @@ Wester kan geen onderscheid tussen kleuren maken.
 - Zijn Perceptie kan NOOIT naar omhoog.
 - Vele objecten kunnen zich makkelijker verstoppen (denk aan vallen, robots, etc.)
 
-
+Hoewel hij kleurenblind is, kan hij wel alle we
 
 
 
