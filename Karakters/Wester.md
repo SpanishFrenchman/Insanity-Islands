@@ -79,7 +79,8 @@ Bij de consumptie van vers, rauw vlees, zal het infrarood effect versterkerd wor
 
 Voor iemand die alleen met dieren heeft geleefd voor 16 jaar lang, weet Wester verdacht veel over menselijke uitvindingen zoals plastic, vuurwapens en merken, maar niemand weet hoe.
 
-Hint: Als wezens achter hele dikke muren staan of als mensen bepaalde soorten uitrusting dragen, dan kan je ze niet
+Hint: Als wezens achter hele dikke muren staan of als mensen bepaalde soorten uitrusting dragen, dan kan je ze ook niet zien met infrarood licht, dus hou daarmee in rekening.
+
 
 
 
