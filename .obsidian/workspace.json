@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb5d722ddd3926e4",
+            "id": "60b0bec9c0e6284e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karakters/Sebastian.md",
+                "file": "Karakters/Wester.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +76,14 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "1eaa53e75f5f17aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karakters/Sebastian.md",
+                "file": "Karakters/Wester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,14 +133,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fb5d722ddd3926e4",
+  "active": "60b0bec9c0e6284e",
   "lastOpenFiles": [
+    "Karakters/Tycho.md",
+    "Karakters/Wester.md",
     "Karakters/Sven.md",
     "Karakters/Sebastian.md",
     "Karakters/Loredana.md",
     "Karakters/Justine.md",
-    "Karakters/Tycho.md",
-    "Karakters/Wester.md",
     "Karakters/Noëlle.md",
     "Karakters/Lotte.md",
     "Karakters/Isa.md",
