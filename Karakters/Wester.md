@@ -69,7 +69,10 @@ Wester is kleurenblind geboren, maar hij heeft wel een speciale gave met zijn og
 
 Wester kan geen onderscheid tussen kleuren maken.
 - Zijn Perceptie kan NOOIT naar omhoog.
-- 
+- Vele objecten kunnen zich makkelijker verstoppen (denk aan vallen, robots, etc.)
+
+
+
 
 
 
