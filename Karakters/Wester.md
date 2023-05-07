@@ -20,7 +20,11 @@ Voordelen
 
 "Ruik je dat? Zo weet je wie daadwerkelijk de baas hier is!"
 
+Nadelen
 
+- Wester heeft een strict dieet van vlees. Hij zal altijd weigeren om groenten te eten.
+
+"Kom op! Mijn tanden zijn zeker niet gemaakt om groenten te kauwen. Dan bre"
 
 
 
