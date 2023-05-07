@@ -72,7 +72,8 @@ Wester kan geen onderscheid tussen kleuren maken.
 - Vele objecten kunnen zich makkelijker verstoppen (denk aan vallen, robots, etc.)
 
 Hoewel hij kleurenblind is, kan hij wel infrarood zien.
-- Alle warmbloedige wezens kan worden gezien door Wester, zelfs als ze achter sommige obstakels staan
+- Alle warmbloedige wezens kan worden gezien door Wester, zelfs als ze achter sommige obstakels staan.
+- 
 
 
 
