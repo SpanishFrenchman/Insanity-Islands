@@ -10,7 +10,13 @@ Special Attack: Hunter's Claws
 
 "Ruik je ook het bloed?"
 
-Trait: Zijn Unarmed Attacks veroorzaken ook het "Bleeding" Status effect, maar z
+Trait: Zijn Unarmed Attacks veroorzaken ook het "Bleeding" Status effect, maar ze doen minder Damage
+
+"Mij boeit schade niet. Dat telt alleen voor bruten. Finesse is wat belangrijk is!"
+
+Voordelen
+
+- 
 
 
 
