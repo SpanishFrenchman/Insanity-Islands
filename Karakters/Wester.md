@@ -1,3 +1,9 @@
+Ras: Magician
+
+Familie: ?
+
+Beoefening: Faunatica
+
 
 
 
