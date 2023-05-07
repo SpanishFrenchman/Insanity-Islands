@@ -27,10 +27,17 @@ Nadelen
 "Kom op! Mijn tanden zijn zeker niet gemaakt om groenten te kauwen. Dan breken ze!"
 
 Special Perk: Night Animal
-	I: Je kan ietsjt
+	I: Je kan ietsje beter zien in het donker
 	+ Objecten waar je naar zoekt zijn makkelijker te zien in het donker
 
+"Kijk! Daar zijn ze!"
 
+Starter Perk I
+
+Starter Perk I:
+	Animal Whisperer II
+	I: Je kan dieren verstaan.
+	II: Je kan met dieren praten.
 
 
 
