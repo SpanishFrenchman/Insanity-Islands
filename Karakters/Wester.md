@@ -16,7 +16,9 @@ Trait: Zijn Unarmed Attacks veroorzaken ook het "Bleeding" Status effect, maar z
 
 Voordelen
 
-- 
+- Wester kan angst ruiken bij alle levende wezens
+
+""
 
 
 
